@@ -318,3 +318,34 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [01Dec2024 17:28:18.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xentros2765 has made the advancement [Amateur Archaeologist]
 [01Dec2024 17:30:54.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xentros2765 lost connection: Timed out
 [01Dec2024 17:30:54.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xentros2765 left the game
+[01Dec2024 17:39:22.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JUAN_D> zzz
+[01Dec2024 17:40:41.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved wrongly!
+[01Dec2024 17:40:42.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved wrongly!
+[01Dec2024 17:51:00.602] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[01Dec2024 17:51:00.603] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[01Dec2024 17:51:00.786] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[01Dec2024 17:51:00.787] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[01Dec2024 17:51:00.787] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[01Dec2024 17:51:00.787] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[01Dec2024 17:51:03.751] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[01Dec2024 17:51:04.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Blood Feeders' Home]
+[01Dec2024 17:53:09.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was slain by Vampire
+[01Dec2024 17:53:18.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was slain by Vampire
+[01Dec2024 17:53:22.269] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=201, y=89, z=2836}
+[01Dec2024 17:53:31.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was slain by Vampire
+[01Dec2024 17:53:42.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was slain by Vampire
+[01Dec2024 17:53:57.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was slain by Vampire
+[01Dec2024 17:54:09.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was slain by Vampire
+[01Dec2024 17:54:24.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was slain by Vampire
+[01Dec2024 17:57:33.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D fell from a high place
+[01Dec2024 17:58:04.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01Dec2024 17:58:04.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Dec2024 17:58:04.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Dec2024 17:58:04.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Dec2024 17:58:04.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Dec2024 17:58:05.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Dec2024 17:58:05.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Dec2024 17:58:05.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Dec2024 17:58:05.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Dec2024 17:58:05.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Dec2024 17:58:05.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
