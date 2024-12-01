@@ -305,3 +305,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [01Dec2024 17:06:39.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xentros2765) moved wrongly! 1.0
 [01Dec2024 17:06:39.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xentros2765) moved wrongly! 1.0
 [01Dec2024 17:10:33.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xentros2765 has made the advancement [My Name is Nobody]
+[01Dec2024 17:20:26.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xentros2765 has made the advancement [Clash of the Titans]
+[01Dec2024 17:23:17.832] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[01Dec2024 17:23:17.833] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[01Dec2024 17:23:17.833] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[01Dec2024 17:23:17.833] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[01Dec2024 17:23:17.833] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[01Dec2024 17:23:17.833] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[01Dec2024 17:23:17.834] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[01Dec2024 17:23:17.834] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[01Dec2024 17:23:22.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xentros2765 has made the advancement [Acquire Hardware]
+[01Dec2024 17:28:18.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xentros2765 has made the advancement [Amateur Archaeologist]
+[01Dec2024 17:30:54.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xentros2765 lost connection: Timed out
+[01Dec2024 17:30:54.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xentros2765 left the game

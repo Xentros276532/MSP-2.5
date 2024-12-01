@@ -22,8 +22,10 @@
       "minecraft:cherry_grove": "2024-11-30 22:18:44 +0000",
       "minecraft:sunflower_plains": "2024-12-01 00:09:59 +0000",
       "minecraft:birch_forest": "2024-12-01 00:02:36 +0000",
+      "minecraft:beach": "2024-12-01 17:11:07 +0000",
       "minecraft:river": "2024-11-30 22:28:48 +0000",
       "minecraft:forest": "2024-11-30 22:23:56 +0000",
+      "minecraft:ocean": "2024-12-01 17:14:20 +0000",
       "minecraft:flower_forest": "2024-12-01 00:07:50 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-30 22:35:51 +0000",
       "minecraft:plains": "2024-11-30 22:12:59 +0000"
@@ -472,7 +474,9 @@
       "minecraft:skeleton": "2024-11-30 22:44:39 +0000",
       "minecraft:spider": "2024-11-30 22:14:28 +0000",
       "minecraft:creeper": "2024-11-30 22:58:31 +0000",
-      "minecraft:zombie": "2024-11-30 22:34:25 +0000"
+      "minecraft:witch": "2024-12-01 17:13:00 +0000",
+      "minecraft:zombie": "2024-11-30 22:34:25 +0000",
+      "minecraft:drowned": "2024-12-01 17:12:43 +0000"
     },
     "done": false
   },
@@ -490,11 +494,15 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-12-01 17:17:18 +0000",
+      "porkchop": "2024-12-01 17:09:49 +0000",
       "apple": "2024-12-01 17:07:01 +0000",
       "mutton": "2024-11-30 22:14:34 +0000",
       "bread": "2024-11-30 22:26:33 +0000",
       "golden_apple": "2024-11-30 23:20:03 +0000",
-      "glow_berries": "2024-12-01 17:02:29 +0000"
+      "rotten_flesh": "2024-12-01 17:22:58 +0000",
+      "glow_berries": "2024-12-01 17:02:29 +0000",
+      "cod": "2024-12-01 17:14:50 +0000"
     },
     "done": false
   },
@@ -3267,7 +3275,7 @@
   },
   "vampirism:hunter/technology": {
     "criteria": {
-      "basic": "2024-11-30 23:55:43 +0000"
+      "main": "2024-12-01 17:26:59 +0000"
     },
     "done": false
   },
@@ -3279,7 +3287,7 @@
   },
   "vampirism:hunter/betrayal": {
     "criteria": {
-      "kill": "2024-12-01 00:00:20 +0000"
+      "faction": "2024-12-01 17:26:59 +0000"
     },
     "done": false
   },
@@ -3379,6 +3387,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2024-12-01 17:13:24 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/become_hunter": {
+    "criteria": {
+      "main": "2024-12-01 17:26:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_black_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-01 16:50:27 +0000"
@@ -3397,11 +3417,35 @@
     },
     "done": true
   },
+  "vampirism:hunter/kill_resurrected_vampire": {
+    "criteria": {
+      "main": "2024-12-01 17:26:59 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2024-12-01 17:19:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-01 16:50:27 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-01 17:19:28 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/max_lord": {
+    "criteria": {
+      "main": "2024-12-01 17:26:59 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_glass": {
     "criteria": {
@@ -3412,6 +3456,12 @@
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-01 16:50:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2024-12-01 17:19:28 +0000"
     },
     "done": true
   },
@@ -3445,6 +3495,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-01 17:16:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-01 17:19:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-01 16:50:27 +0000"
@@ -3457,9 +3519,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-12-01 17:08:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-01 16:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-01 17:19:28 +0000"
     },
     "done": true
   },
@@ -3490,6 +3564,12 @@
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-01 16:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-01 17:13:24 +0000"
     },
     "done": true
   },
@@ -3559,6 +3639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-01 17:19:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-01 16:50:27 +0000"
@@ -3571,6 +3657,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-01 17:19:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-01 16:50:27 +0000"
@@ -3580,6 +3672,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-01 16:50:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2024-12-01 17:16:46 +0000"
     },
     "done": true
   },
@@ -3601,6 +3699,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2024-12-01 17:08:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-01 16:51:01 +0000"
@@ -3619,9 +3723,39 @@
     },
     "done": true
   },
+  "werewolves:recipes/misc/stone_altar": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-01 17:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-12-01 17:08:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-01 16:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2024-12-01 17:10:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-01 17:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-01 17:19:28 +0000"
     },
     "done": true
   },
@@ -3634,6 +3768,24 @@
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-01 16:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-12-01 17:08:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-01 17:19:28 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2024-12-01 17:15:22 +0000"
     },
     "done": true
   },
@@ -3679,9 +3831,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-01 17:19:28 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/altar_pillar": {
+    "criteria": {
+      "has_stones": "2024-12-01 17:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-01 17:19:28 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/cure_vampire_villager": {
+    "criteria": {
+      "main": "2024-12-01 17:26:59 +0000"
+    },
+    "done": false
+  },
   "vampirism:recipes/misc/vampire_beacon": {
     "criteria": {
       "has_glass": "2024-12-01 16:50:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2024-12-01 17:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-01 17:16:46 +0000"
     },
     "done": true
   },
@@ -3700,6 +3888,18 @@
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-01 16:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-01 17:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-01 17:13:24 +0000"
     },
     "done": true
   },
@@ -3760,6 +3960,18 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-01 16:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-01 17:19:28 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_gray": {
+    "criteria": {
+      "has_wool": "2024-12-01 17:08:24 +0000"
     },
     "done": true
   },
@@ -3832,6 +4044,18 @@
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-01 16:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-01 17:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-01 17:19:28 +0000"
     },
     "done": true
   },
@@ -3937,9 +4161,21 @@
     },
     "done": true
   },
+  "vampirism:hunter/stake": {
+    "criteria": {
+      "main": "2024-12-01 17:26:59 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-01 16:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-01 17:19:28 +0000"
     },
     "done": true
   },
@@ -3948,6 +4184,12 @@
       "has_glass_colorless": "2024-12-01 16:50:27 +0000"
     },
     "done": true
+  },
+  "vampirism:hunter/kill_mother": {
+    "criteria": {
+      "main": "2024-12-01 17:26:59 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_glass": {
     "criteria": {
