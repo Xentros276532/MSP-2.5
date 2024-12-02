@@ -516,3 +516,39 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [02Dec2024 19:16:38.973] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Gudmund'/26939, l='ServerLevel[world]', x=-915.11, y=62.94, z=2406.62] died, message: 'Gudmund was turned into KFC by Fire Dragon'
 [02Dec2024 19:16:38.974] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Gudmund'/26939, l='ServerLevel[world]', x=-915.11, y=62.94, z=2406.62] died: Gudmund was turned into KFC by Fire Dragon
 [02Dec2024 19:17:09.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was incinerated by Fire Dragon
+[02Dec2024 19:22:46.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was slain by Spider
+[02Dec2024 19:22:59.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved too quickly! -7.5310275005469975,-3.0,5.979401805882844
+[02Dec2024 19:27:29.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dandy (vehicle of Xentros2765) moved wrongly! 0.2611463488849495
+[02Dec2024 19:27:29.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dandy (vehicle of Xentros2765) moved wrongly! 0.6823022748362746
+[02Dec2024 19:27:29.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dandy (vehicle of Xentros2765) moved wrongly! 1.1347837636335498
+[02Dec2024 19:28:55.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved too quickly! 83.36967858117384,-7.499999952316273,-175.26516375351503
+[02Dec2024 19:29:20.574] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D lost connection: Disconnected
+[02Dec2024 19:29:20.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D left the game
+[02Dec2024 19:29:20.681] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Dec2024 19:29:20.685] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUAN_D[/[::1]:44690] logged in with entity id 35479 at (-737.8382854512154, 74.58239999780655, 2476.6591755051427)
+[02Dec2024 19:29:20.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D joined the game
+[02Dec2024 19:29:20.779] [Server thread/INFO] [Jade/]: Syncing config to JUAN_D (981de7bf-aff5-3ebe-9eb2-5b5f7c8f79c4)
+[02Dec2024 19:29:34.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was slain by Fire Dragon
+[02Dec2024 19:29:44.416] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D lost connection: You logged in from another location
+[02Dec2024 19:29:44.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D left the game
+[02Dec2024 19:29:44.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUAN_D[/[::1]:49722] logged in with entity id 36016 at (-739.9963671281185, 72.0, 2464.970690430107)
+[02Dec2024 19:29:44.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D joined the game
+[02Dec2024 19:29:44.437] [Server thread/INFO] [Jade/]: Syncing config to JUAN_D (981de7bf-aff5-3ebe-9eb2-5b5f7c8f79c4)
+[02Dec2024 19:29:44.866] [Server thread/WARN] [de.teamlapen.lib.network.ClientboundUpdateEntityPacket/]: There is nothing to update for entity ServerPlayer['JUAN_D'/36016, l='ServerLevel[world]', x=-740.00, y=72.00, z=2464.97, removed=KILLED]
+[02Dec2024 19:32:46.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was slain by Fire Dragon
+[02Dec2024 19:34:36.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xentros2765 has made the advancement [The Parrots and the Bats]
+[02Dec2024 19:36:08.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xentros2765 lost connection: Timed out
+[02Dec2024 19:36:08.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xentros2765 left the game
+[02Dec2024 19:36:52.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02Dec2024 19:36:52.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STOP<--[HERE]
+[02Dec2024 19:36:56.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[02Dec2024 19:36:56.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Dec2024 19:36:56.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Dec2024 19:36:56.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Dec2024 19:36:56.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Dec2024 19:36:56.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Dec2024 19:36:56.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Dec2024 19:36:56.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Dec2024 19:36:56.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Dec2024 19:36:56.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Dec2024 19:36:56.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

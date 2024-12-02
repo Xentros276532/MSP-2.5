@@ -4229,57 +4229,15 @@
     },
     "done": true
   },
-  "naturalist:recipes/food/cake": {
-    "criteria": {
-      "has_the_recipe": "2024-12-02 19:15:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-02 18:35:45 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/straw": {
-    "criteria": {
-      "has_wheat": "2024-12-02 18:31:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2024-12-02 18:32:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-02 18:25:09 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
-    "criteria": {
-      "fried_egg": "2024-12-02 19:15:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-02 18:25:09 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/food/gysahl_cake": {
-    "criteria": {
-      "has_gysahl_green": "2024-12-02 18:59:24 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/choco_disguise_leggings": {
-    "criteria": {
-      "has_chocobo_feather": "2024-12-02 19:08:02 +0000"
     },
     "done": true
   },
@@ -4295,39 +4253,9 @@
     },
     "done": true
   },
-  "chococraft:recipes/misc/red_gysahl": {
-    "criteria": {
-      "has_gysahl_green": "2024-12-02 18:59:24 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/chocopedia": {
-    "criteria": {
-      "has_gysahl_green": "2024-12-02 18:59:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2024-12-02 18:32:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2024-12-02 18:42:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2024-12-02 18:25:09 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/pink_gysahl": {
-    "criteria": {
-      "has_gysahl_green": "2024-12-02 18:59:24 +0000"
     },
     "done": true
   },
@@ -4337,75 +4265,9 @@
     },
     "done": true
   },
-  "chococraft:recipes/misc/chocobo_saddle_alt": {
-    "criteria": {
-      "has_chocobo_feather": "2024-12-02 19:08:02 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/vampire/coffin_black": {
-    "criteria": {
-      "has_wool": "2024-12-02 18:32:53 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/chocobo_saddle": {
-    "criteria": {
-      "has_chocobo_feather": "2024-12-02 19:08:02 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg_from_smoking": {
-    "criteria": {
-      "fried_egg": "2024-12-02 19:15:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2024-12-02 19:15:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2024-12-02 18:31:27 +0000"
-    },
-    "done": true
-  },
   "werewolves:recipes/transportation/jacaranda_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-02 18:25:09 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/food/pickled_gysahl_raw": {
-    "criteria": {
-      "has_gysahl_green": "2024-12-02 18:59:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2024-12-02 18:35:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2024-12-02 18:31:27 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/gysahl_green_to_seeds": {
-    "criteria": {
-      "has_gysahl_green": "2024-12-02 18:59:24 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/choco_disguise_boots": {
-    "criteria": {
-      "has_chocobo_feather": "2024-12-02 19:08:02 +0000"
     },
     "done": true
   },
@@ -4415,27 +4277,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2024-12-02 18:32:53 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/choco_disguise_chestplate": {
-    "criteria": {
-      "has_chocobo_feather": "2024-12-02 19:08:02 +0000"
-    },
-    "done": true
-  },
   "vampirism:recipes/transportation/dark_spruce_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-02 18:25:09 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/chocobo_whistle": {
-    "criteria": {
-      "has_chocobo_feather": "2024-12-02 19:08:02 +0000"
     },
     "done": true
   },
@@ -4457,9 +4301,21 @@
     },
     "done": true
   },
-  "chococraft:recipes/misc/choco_disguise_helmet": {
+  "werewolves:recipes/transportation/magic_chest_boat": {
     "criteria": {
-      "has_chocobo_feather": "2024-12-02 19:08:02 +0000"
+      "has_boat": "2024-12-02 18:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-02 18:31:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-02 18:31:27 +0000"
     },
     "done": true
   },
@@ -4469,15 +4325,45 @@
     },
     "done": true
   },
-  "mca:recipes/misc/potions": {
+  "chococraft:recipes/misc/straw": {
     "criteria": {
-      "has_item": "2024-12-02 19:15:26 +0000"
+      "has_wheat": "2024-12-02 18:31:49 +0000"
     },
     "done": true
   },
-  "werewolves:recipes/transportation/magic_chest_boat": {
+  "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
-      "has_boat": "2024-12-02 18:25:09 +0000"
+      "has_black_wool": "2024-12-02 18:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-02 18:32:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_black": {
+    "criteria": {
+      "has_wool": "2024-12-02 18:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-02 18:32:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-02 18:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-02 18:35:45 +0000"
     },
     "done": true
   },
@@ -4487,9 +4373,123 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-02 18:42:55 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/gysahl_cake": {
+    "criteria": {
+      "has_gysahl_green": "2024-12-02 18:59:24 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/red_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2024-12-02 18:59:24 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocopedia": {
+    "criteria": {
+      "has_gysahl_green": "2024-12-02 18:59:24 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/pink_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2024-12-02 18:59:24 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/pickled_gysahl_raw": {
+    "criteria": {
+      "has_gysahl_green": "2024-12-02 18:59:24 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/gysahl_green_to_seeds": {
+    "criteria": {
+      "has_gysahl_green": "2024-12-02 18:59:24 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_leggings": {
+    "criteria": {
+      "has_chocobo_feather": "2024-12-02 19:08:02 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_saddle_alt": {
+    "criteria": {
+      "has_chocobo_feather": "2024-12-02 19:08:02 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_saddle": {
+    "criteria": {
+      "has_chocobo_feather": "2024-12-02 19:08:02 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_boots": {
+    "criteria": {
+      "has_chocobo_feather": "2024-12-02 19:08:02 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_chestplate": {
+    "criteria": {
+      "has_chocobo_feather": "2024-12-02 19:08:02 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_whistle": {
+    "criteria": {
+      "has_chocobo_feather": "2024-12-02 19:08:02 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_helmet": {
+    "criteria": {
+      "has_chocobo_feather": "2024-12-02 19:08:02 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/chocobo_saddle_bags": {
     "criteria": {
       "has_chocobo_feather": "2024-12-02 19:08:02 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2024-12-02 19:15:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2024-12-02 19:15:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2024-12-02 19:15:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-02 19:15:26 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2024-12-02 19:15:26 +0000"
     },
     "done": true
   },
