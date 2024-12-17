@@ -452,3 +452,192 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [17Dec2024 20:31:42.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Fruits of the Field]
 [17Dec2024 20:33:37.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has reached the goal [To be or not to be]
 [17Dec2024 20:34:46.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Forbidden Fruit]
+[17Dec2024 20:36:16.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Take Aim]
+[17Dec2024 20:38:01.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was killed by Naga using magic
+[17Dec2024 20:38:01.420] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[17Dec2024 20:38:08.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to 276.500000, 63.500000, -268.500000]
+[17Dec2024 20:40:56.032] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:56.129] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:56.227] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:56.333] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:56.426] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:56.525] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:56.628] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:56.732] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:56.858] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:56.964] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:57.069] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:57.162] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:57.236] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:57.325] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:57.429] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:57.532] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:57.627] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:57.727] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:57.835] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:57.930] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:58.023] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:58.123] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:58.224] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:58.326] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:58.423] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:58.523] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:58.623] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:58.723] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:58.826] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:58.926] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:59.023] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:59.126] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:59.222] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:59.324] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:59.423] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:59.526] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:59.626] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:59.725] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:59.826] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:40:59.926] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:41:00.025] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:41:00.128] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:41:00.224] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:41:00.327] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:41:00.426] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:41:00.527] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:41:00.625] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:41:00.726] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:41:00.824] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:41:00.928] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:41:01.022] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:41:01.124] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:41:01.240] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:41:01.324] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:41:01.426] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:41:01.523] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:41:10.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has reached the goal [Strong or Careful]
+[17Dec2024 20:41:10.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was blown up by Death Worm
+[17Dec2024 20:41:10.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Your First Grave]
+[17Dec2024 20:41:10.257] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[17Dec2024 20:41:12.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [The Most Useful Key]
+[17Dec2024 20:41:28.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JUAN_D> xaero-waypoint:Shared Location:S:-319:67:-667:13:false:0:Internal-overworld-waypoints
+[17Dec2024 20:43:57.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has reached the goal [A Fast Comeback]
+[17Dec2024 20:46:34.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Sweet Dreams]
+[17Dec2024 20:47:11.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Eye of The Storm]
+[17Dec2024 20:48:13.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Sweet Dreams]
+[17Dec2024 20:49:08.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Forbidden Fruit]
+[17Dec2024 20:50:36.826] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Shkumbin'/29487, l='ServerLevel[world]', x=-299.46, y=67.00, z=-717.30] died, message: 'Shkumbin was blown up by Creeper'
+[17Dec2024 20:50:36.829] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Shkumbin'/29487, l='ServerLevel[world]', x=-299.46, y=67.00, z=-717.30] died: Shkumbin was blown up by Creeper
+[17Dec2024 20:50:36.848] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ruzhdi'/29488, l='ServerLevel[world]', x=-298.87, y=67.00, z=-717.29] died, message: 'Ruzhdi was blown up by Creeper'
+[17Dec2024 20:50:36.852] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ruzhdi'/29488, l='ServerLevel[world]', x=-298.87, y=67.00, z=-717.29] died: Ruzhdi was blown up by Creeper
+[17Dec2024 20:50:54.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Minecraft Comes Alive]
+[17Dec2024 20:51:46.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Minecraft Comes Alive]
+[17Dec2024 21:03:25.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was blown up by Death Worm
+[17Dec2024 21:03:25.108] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[17Dec2024 21:08:09.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Ice Bucket Challenge]
+[17Dec2024 21:08:15.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [The Desert Swimmers]
+[17Dec2024 21:08:15.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Paul Atreides]
+[17Dec2024 21:08:30.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Hot Stuff]
+[17Dec2024 21:09:11.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Rigged from the Start]
+[17Dec2024 21:10:36.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Ice Bucket Challenge]
+[17Dec2024 21:14:30.135] [Server thread/WARN] [com.sky.weaponmaster.WeaponMaster/]: Weapon Kit
+[17Dec2024 21:14:30.783] [Server thread/WARN] [com.sky.weaponmaster.WeaponMaster/]: Weapon Kit
+[17Dec2024 21:24:32.522] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Merita'/45195, l='ServerLevel[world]', x=-289.25, y=67.00, z=-643.52] died, message: 'Merita went up in flames'
+[17Dec2024 21:24:32.524] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Merita'/45195, l='ServerLevel[world]', x=-289.25, y=67.00, z=-643.52] died: Merita went up in flames
+[17Dec2024 21:28:03.180] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:28:06.887] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:28:08.285] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:28:08.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [No Step on Snake]
+[17Dec2024 21:28:08.984] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:28:09.721] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:28:12.084] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:28:13.781] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:28:17.280] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:28:19.676] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:28:21.396] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:28:26.578] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:30:08.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Ambush]
+[17Dec2024 21:31:50.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Voluntary Exile]
+[17Dec2024 21:34:14.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Ravager
+[17Dec2024 21:34:14.755] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[17Dec2024 21:34:23.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to 178.500000, 66.500000, -849.500000]
+[17Dec2024 21:34:33.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has reached the goal [Chain Death]
+[17Dec2024 21:34:33.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Ravager
+[17Dec2024 21:34:33.298] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[17Dec2024 21:34:47.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has reached the goal [A Fast Comeback]
+[17Dec2024 21:36:51.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has reached the goal [Fortuitous Militia]
+[17Dec2024 21:38:29.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has reached the goal [Quaint Scribe]
+[17Dec2024 21:39:14.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was caught by Archevoker's fangs
+[17Dec2024 21:39:14.844] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[17Dec2024 21:39:50.521] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:50.625] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:50.723] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:50.821] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:50.922] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:51.023] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:51.127] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:51.221] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:51.325] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:51.424] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:51.520] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:51.621] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:51.721] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:51.820] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:51.920] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:52.020] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:52.124] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:52.220] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:52.323] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:52.422] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:52.521] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:52.624] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:52.726] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:52.822] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:52.921] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:53.022] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:53.121] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:53.225] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:53.320] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:53.420] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:53.522] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:53.621] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:53.720] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:53.820] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:53.924] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:54.022] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:54.120] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:54.220] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:54.319] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:54.422] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:54.523] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:54.620] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:54.722] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:54.821] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:54.920] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:55.020] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:55.123] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:55.220] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:55.319] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:55.421] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:55.522] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:55.619] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:55.723] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:55.820] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:55.920] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:56.019] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:39:56.121] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 21:40:49.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was caught by Archevoker's fangs
+[17Dec2024 21:40:49.112] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[17Dec2024 21:45:51.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [No Step on Snake]
+[17Dec2024 21:54:28.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has reached the goal [Bone Crusher]
+[17Dec2024 21:56:04.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Enchanter]
+[17Dec2024 21:56:59.128] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Rina'/44874, l='ServerLevel[world]', x=-263.72, y=73.00, z=-677.76] died, message: 'Rina was slain by Husk'
+[17Dec2024 21:56:59.131] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Rina'/44874, l='ServerLevel[world]', x=-263.72, y=73.00, z=-677.76] died: Rina was slain by Husk
+[17Dec2024 21:58:48.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Take Aim]
+[17Dec2024 21:59:36.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Ant Farm]
+[17Dec2024 22:00:58.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Summoned new Elephant]
+[17Dec2024 22:03:51.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Amateur Archaeologist]
+[17Dec2024 22:03:54.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Magic Writing]
+[17Dec2024 22:04:14.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [A True Source of Evil]
+[17Dec2024 22:06:35.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 fell from a high place
+[17Dec2024 22:06:35.204] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[17Dec2024 22:10:14.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [First Age]
+[17Dec2024 22:12:19.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Chest Slayer]
+[17Dec2024 22:13:19.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Knowledge raises the soul]
