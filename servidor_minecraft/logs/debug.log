@@ -8397,3 +8397,32 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [17Dec2024 20:03:48.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Diamonds!]
 [17Dec2024 20:04:26.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Magic Writing]
 [17Dec2024 20:04:31.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Tools of the Trade]
+[17Dec2024 20:06:09.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has completed the challenge [Cannibal]
+[17Dec2024 20:06:18.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 withered away
+[17Dec2024 20:06:18.379] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:64, y:-3, z:-1, dim:minecraft:overworld]
+[17Dec2024 20:06:18.383] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[17Dec2024 20:06:57.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 20:06:57.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 20:07:13.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to 63.500000, -2.500000, 0.500000]
+[17Dec2024 20:11:04.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Knowledge of Death]
+[17Dec2024 20:11:04.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Ashes 'n Bones]
+[17Dec2024 20:11:57.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 20:11:57.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 20:14:36.531] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=400, y=111, z=128}
+[17Dec2024 20:14:36.547] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=363, y=99, z=105}
+[17Dec2024 20:14:36.613] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=400, y=111, z=128}
+[17Dec2024 20:14:36.619] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=363, y=99, z=105}
+[17Dec2024 20:14:36.767] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=400, y=111, z=128}
+[17Dec2024 20:14:36.772] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=363, y=99, z=105}
+[17Dec2024 20:14:41.769] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=400, y=111, z=128}
+[17Dec2024 20:14:41.776] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=363, y=99, z=105}
+[17Dec2024 20:14:42.040] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=400, y=111, z=128}
+[17Dec2024 20:14:42.045] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=363, y=99, z=105}
+[17Dec2024 20:14:42.049] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=386, y=92, z=134}
+[17Dec2024 20:14:42.090] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=400, y=111, z=128}
+[17Dec2024 20:14:42.099] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=368, y=106, z=125}
+[17Dec2024 20:14:42.099] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=363, y=99, z=105}
+[17Dec2024 20:14:42.104] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=380, y=92, z=114}
+[17Dec2024 20:14:42.105] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=380, y=92, z=121}
+[17Dec2024 20:14:42.105] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=373, y=92, z=127}
+[17Dec2024 20:15:14.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Not Today, Thank You]
