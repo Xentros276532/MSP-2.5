@@ -8432,3 +8432,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [17Dec2024 20:21:57.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Dec2024 20:21:57.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Dec2024 20:25:23.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [It's an Emu!!!]
+[17Dec2024 20:26:00.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [We do a little trolling...]
+[17Dec2024 20:26:57.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 20:26:57.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 20:29:03.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[17Dec2024 20:29:26.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17Dec2024 20:31:42.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Fruits of the Field]
+[17Dec2024 20:32:01.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 20:32:01.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 20:33:37.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has reached the goal [To be or not to be]
+[17Dec2024 20:34:09.811] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[17Dec2024 20:34:46.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Forbidden Fruit]

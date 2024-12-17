@@ -329,9 +329,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:wooded_badlands": "2024-12-17 20:24:51 +0000",
+      "minecraft:sparse_jungle": "2024-12-17 20:23:17 +0000",
       "minecraft:lukewarm_ocean": "2024-12-17 19:54:30 +0000",
       "minecraft:river": "2024-12-17 20:21:42 +0000",
       "minecraft:forest": "2024-12-17 19:22:30 +0000",
+      "minecraft:desert": "2024-12-17 20:25:56 +0000",
+      "minecraft:jungle": "2024-12-17 20:24:26 +0000",
       "minecraft:savanna": "2024-12-17 19:17:41 +0000",
       "minecraft:plains": "2024-12-17 20:21:49 +0000"
     },
@@ -877,6 +881,7 @@
       "minecraft:skeleton": "2024-12-17 20:05:36 +0000",
       "minecraft:spider": "2024-12-17 20:06:25 +0000",
       "minecraft:creeper": "2024-12-17 20:18:19 +0000",
+      "minecraft:husk": "2024-12-17 20:28:45 +0000",
       "minecraft:cave_spider": "2024-12-17 19:52:10 +0000",
       "minecraft:zombie": "2024-12-17 19:22:19 +0000"
     },
@@ -1394,6 +1399,12 @@
     },
     "done": true
   },
+  "occultism:recipes/spirit_fire/spirit_fire/awakened_feather": {
+    "criteria": {
+      "has_feather": "2024-12-17 20:23:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-17 19:53:07 +0000"
@@ -1409,6 +1420,12 @@
   "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-17 20:19:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-17 20:23:20 +0000"
     },
     "done": true
   },
@@ -1433,6 +1450,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-17 20:09:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2024-12-17 20:26:46 +0000"
     },
     "done": true
   },
@@ -1469,6 +1492,12 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2024-12-17 20:19:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2024-12-17 20:25:23 +0000"
     },
     "done": true
   },
@@ -1592,9 +1621,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-17 20:23:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-17 20:19:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-17 20:30:44 +0000"
     },
     "done": true
   },
@@ -1634,9 +1675,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-17 20:30:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2024-12-17 19:54:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2024-12-17 20:26:46 +0000"
     },
     "done": true
   },
@@ -1790,6 +1843,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2024-12-17 20:26:49 +0000"
+    },
+    "done": true
+  },
   "vinery:main/fruits_of_the_field": {
     "criteria": {
       "fruits_of_the_field": "2024-12-17 20:21:49 +0000"
@@ -1823,6 +1882,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-17 20:02:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2024-12-17 20:26:46 +0000"
     },
     "done": true
   },
@@ -1904,6 +1969,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2024-12-17 20:26:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-17 20:19:27 +0000"
@@ -1916,9 +1987,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-17 20:29:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-17 19:50:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-17 20:30:44 +0000"
     },
     "done": true
   },
@@ -1946,6 +2029,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-17 20:23:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-17 19:50:43 +0000"
@@ -1961,6 +2050,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-17 20:10:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2024-12-17 20:26:46 +0000"
     },
     "done": true
   },
@@ -1994,6 +2089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-17 20:30:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-17 20:19:27 +0000"
@@ -2018,6 +2119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-17 20:30:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-17 20:19:24 +0000"
@@ -2027,6 +2134,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2024-12-17 19:54:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-17 20:31:58 +0000"
     },
     "done": true
   },
@@ -2066,6 +2179,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2024-12-17 20:26:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-17 19:50:09 +0000"
@@ -2081,6 +2200,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-17 20:09:57 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2024-12-17 20:23:59 +0000"
     },
     "done": true
   },
@@ -2111,6 +2236,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-12-17 20:18:20 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2024-12-17 20:26:00 +0000"
     },
     "done": true
   },
@@ -2216,6 +2347,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2024-12-17 20:23:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-17 20:09:57 +0000"
@@ -2306,6 +2443,18 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/iron_dust": {
+    "criteria": {
+      "has_iron": "2024-12-17 20:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-17 20:23:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-17 20:19:27 +0000"
@@ -2315,6 +2464,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-17 20:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-17 20:29:48 +0000"
     },
     "done": true
   },
@@ -2333,6 +2488,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-17 20:09:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2024-12-17 20:26:46 +0000"
     },
     "done": true
   },
@@ -2366,6 +2527,12 @@
     },
     "done": true
   },
+  "vinery:recipes/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-12-17 20:30:42 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/rose_gold_dust": {
     "criteria": {
       "has_item": "2024-12-17 20:02:07 +0000"
@@ -2375,6 +2542,18 @@
   "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-17 20:19:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-12-17 20:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-17 20:23:20 +0000"
     },
     "done": true
   },
@@ -2480,6 +2659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-17 20:23:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-17 20:19:27 +0000"
@@ -2528,6 +2713,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2024-12-17 20:26:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2024-12-17 19:54:35 +0000"
@@ -2570,6 +2761,24 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2024-12-17 20:30:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-17 20:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-17 20:24:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2024-12-17 19:54:34 +0000"
@@ -2594,6 +2803,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-17 20:30:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-17 20:19:24 +0000"
@@ -2603,6 +2818,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-17 19:51:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-17 20:31:58 +0000"
     },
     "done": true
   },
@@ -2705,6 +2926,12 @@
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-17 20:10:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-17 20:24:54 +0000"
     },
     "done": true
   },
@@ -2864,6 +3091,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2024-12-17 20:26:46 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/oak_wine_rack_small": {
     "criteria": {
       "has_oak_planks": "2024-12-17 19:50:43 +0000"
@@ -2912,6 +3145,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-12-17 20:30:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2024-12-17 20:10:14 +0000"
@@ -2936,6 +3175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-17 20:30:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-17 19:50:09 +0000"
@@ -2954,9 +3199,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2024-12-17 20:26:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2024-12-17 19:54:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2024-12-17 20:26:49 +0000"
     },
     "done": true
   },

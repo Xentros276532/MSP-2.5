@@ -301,8 +301,11 @@
       "minecraft:savanna_plateau": "2024-12-17 20:14:35 +0000",
       "minecraft:stony_peaks": "2024-12-17 20:13:50 +0000",
       "minecraft:lukewarm_ocean": "2024-12-17 20:09:34 +0000",
+      "minecraft:river": "2024-12-17 20:31:37 +0000",
+      "minecraft:stony_shore": "2024-12-17 20:30:00 +0000",
       "minecraft:forest": "2024-12-17 19:21:37 +0000",
-      "minecraft:savanna": "2024-12-17 19:20:47 +0000"
+      "minecraft:savanna": "2024-12-17 19:20:47 +0000",
+      "minecraft:plains": "2024-12-17 20:31:42 +0000"
     },
     "done": false
   },
@@ -1352,15 +1355,33 @@
     },
     "done": true
   },
+  "occultism:recipes/spirit_fire/spirit_fire/awakened_feather": {
+    "criteria": {
+      "has_feather": "2024-12-17 20:28:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-17 20:01:04 +0000"
     },
     "done": true
   },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2024-12-17 20:30:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-17 20:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-17 20:28:44 +0000"
     },
     "done": true
   },
@@ -1412,6 +1433,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-17 20:29:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2024-12-17 20:07:48 +0000"
@@ -1430,9 +1457,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-17 20:28:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2024-12-17 20:30:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-17 20:01:00 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/fried_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-17 20:29:43 +0000"
     },
     "done": true
   },
@@ -1486,6 +1531,12 @@
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2024-12-17 19:49:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-17 20:30:14 +0000"
     },
     "done": true
   },
@@ -1561,6 +1612,12 @@
     },
     "done": true
   },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2024-12-17 20:31:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/portable_tune_player": {
     "criteria": {
       "has_redstone": "2024-12-17 20:07:48 +0000"
@@ -1624,6 +1681,12 @@
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
       "has_redstone": "2024-12-17 20:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-17 20:28:44 +0000"
     },
     "done": true
   },
@@ -1723,6 +1786,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2024-12-17 20:30:14 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/combat/silver_bomb": {
     "criteria": {
       "has_gunpowder": "2024-12-17 20:01:44 +0000"
@@ -1738,6 +1807,18 @@
   "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-17 20:01:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-17 20:30:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2024-12-17 20:28:44 +0000"
     },
     "done": true
   },
@@ -1783,6 +1864,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-17 20:28:44 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/diamond_fillet_knife": {
     "criteria": {
       "has_items": "2024-12-17 20:03:48 +0000"
@@ -1804,6 +1891,12 @@
   "mca:recipes/misc/rose_gold_dust": {
     "criteria": {
       "has_item": "2024-12-17 20:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-17 20:28:38 +0000"
     },
     "done": true
   },
@@ -1951,6 +2044,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-17 20:30:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-17 20:03:48 +0000"
@@ -2059,6 +2158,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2024-12-17 20:30:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-17 20:01:04 +0000"
@@ -2107,11 +2212,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-17 20:29:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-12-17 20:04:44 +0000",
       "golden_apple": "2024-12-17 20:03:21 +0000",
-      "rotten_flesh": "2024-12-17 20:00:29 +0000"
+      "rotten_flesh": "2024-12-17 20:00:29 +0000",
+      "cooked_chicken": "2024-12-17 20:29:46 +0000"
     },
     "done": false
   },
@@ -2184,6 +2296,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-12-17 20:07:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2024-12-17 20:30:14 +0000"
     },
     "done": true
   },
