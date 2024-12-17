@@ -334,6 +334,7 @@
       "minecraft:lukewarm_ocean": "2024-12-17 19:54:30 +0000",
       "minecraft:river": "2024-12-17 20:21:42 +0000",
       "minecraft:forest": "2024-12-17 19:22:30 +0000",
+      "minecraft:lush_caves": "2024-12-17 22:13:29 +0000",
       "minecraft:desert": "2024-12-17 20:25:56 +0000",
       "minecraft:jungle": "2024-12-17 20:24:26 +0000",
       "minecraft:warm_ocean": "2024-12-17 20:38:46 +0000",
@@ -1533,6 +1534,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/copper_dust_from_raw": {
+    "criteria": {
+      "has_raw_copper": "2024-12-17 22:15:25 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/emu": {
     "criteria": {
       "killed_by": "2024-12-17 20:25:23 +0000"
@@ -1680,6 +1687,12 @@
   "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-17 22:03:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-12-17 22:15:24 +0000"
     },
     "done": true
   },
@@ -2163,6 +2176,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-17 22:15:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-17 22:03:04 +0000"
@@ -2196,6 +2215,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-17 19:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-17 22:15:25 +0000"
     },
     "done": true
   },
@@ -2781,6 +2806,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-17 22:12:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_meal": {
     "criteria": {
       "has_item": "2024-12-17 20:23:20 +0000"
@@ -2934,6 +2965,12 @@
   "occultism:recipes/crushing/crushing/iron_dust": {
     "criteria": {
       "has_iron": "2024-12-17 20:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-12-17 22:15:24 +0000"
     },
     "done": true
   },
@@ -4080,6 +4117,12 @@
   "securitycraft:recipes/misc/cage_trap": {
     "criteria": {
       "has_redstone": "2024-12-17 19:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-17 22:15:25 +0000"
     },
     "done": true
   },

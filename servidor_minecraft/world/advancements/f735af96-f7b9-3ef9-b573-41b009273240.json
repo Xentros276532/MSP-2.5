@@ -307,6 +307,7 @@
       "minecraft:river": "2024-12-17 20:31:37 +0000",
       "minecraft:stony_shore": "2024-12-17 20:30:00 +0000",
       "minecraft:forest": "2024-12-17 19:21:37 +0000",
+      "minecraft:lush_caves": "2024-12-17 22:17:35 +0000",
       "minecraft:desert": "2024-12-17 20:43:58 +0000",
       "minecraft:warm_ocean": "2024-12-17 20:44:26 +0000",
       "minecraft:savanna": "2024-12-17 19:20:47 +0000",
@@ -1669,6 +1670,7 @@
       "minecraft:creeper": "2024-12-17 20:01:44 +0000",
       "minecraft:evoker": "2024-12-17 21:33:17 +0000",
       "minecraft:slime": "2024-12-17 19:55:12 +0000",
+      "minecraft:witch": "2024-12-17 22:12:54 +0000",
       "minecraft:husk": "2024-12-17 21:02:33 +0000",
       "minecraft:cave_spider": "2024-12-17 20:08:19 +0000",
       "minecraft:vex": "2024-12-17 21:33:19 +0000",
@@ -2069,6 +2071,12 @@
   "alexsmobs:alexsmobs/guster": {
     "criteria": {
       "killed_by": "2024-12-17 20:47:11 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2024-12-17 22:22:56 +0000"
     },
     "done": true
   },
@@ -2513,6 +2521,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-17 21:46:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-17 22:13:19 +0000"
     },
     "done": true
   },
