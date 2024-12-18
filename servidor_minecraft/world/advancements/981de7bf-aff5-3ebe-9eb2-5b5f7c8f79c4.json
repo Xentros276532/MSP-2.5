@@ -330,6 +330,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:wooded_badlands": "2024-12-17 20:24:51 +0000",
+      "minecraft:bamboo_jungle": "2024-12-18 23:51:00 +0000",
       "minecraft:beach": "2024-12-18 21:46:55 +0000",
       "minecraft:sparse_jungle": "2024-12-17 20:23:17 +0000",
       "minecraft:lukewarm_ocean": "2024-12-17 19:54:30 +0000",
@@ -4665,6 +4666,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2024-12-18 23:40:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2024-12-18 22:43:30 +0000"
@@ -4713,9 +4720,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2024-12-18 23:40:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_bricks": "2024-12-18 22:43:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2024-12-18 23:40:36 +0000"
     },
     "done": true
   },
@@ -4752,6 +4771,18 @@
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2024-12-18 22:43:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-12-18 23:29:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-18 23:40:36 +0000"
     },
     "done": true
   },
@@ -4842,6 +4873,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2024-12-18 22:38:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2024-12-18 23:40:36 +0000"
     },
     "done": true
   },
