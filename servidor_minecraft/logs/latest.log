@@ -424,3 +424,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [18Dec2024 17:11:38.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Birds of a Feather]
 [18Dec2024 17:13:51.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Sea? Not a Problem]
 [18Dec2024 17:17:01.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3930ms or 78 ticks behind
+[18Dec2024 17:20:59.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was incinerated by Fire Dragon
+[18Dec2024 17:20:59.288] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
