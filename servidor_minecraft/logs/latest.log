@@ -7,3 +7,24 @@
 [19Dec2024 00:09:25.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [We Need to Go Deeper]
 [19Dec2024 00:09:38.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Nightmare Fuel]
 [19Dec2024 00:11:54.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Nightmare Fuel]
+[19Dec2024 00:14:03.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Straddle My Ol' Saddle]
+[19Dec2024 00:14:37.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 tried to swim in lava
+[19Dec2024 00:14:37.682] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[19Dec2024 00:18:00.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [The Path to Better Gear]
+[19Dec2024 00:19:13.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 lost connection: Disconnected
+[19Dec2024 00:19:13.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 left the game
+[19Dec2024 00:19:25.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D lost connection: Disconnected
+[19Dec2024 00:19:25.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D left the game
+[19Dec2024 00:19:30.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[19Dec2024 00:19:30.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Dec2024 00:19:30.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Dec2024 00:19:30.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Dec2024 00:19:31.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Dec2024 00:19:31.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Dec2024 00:19:31.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/tht:dimension
+[19Dec2024 00:19:31.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Dec2024 00:19:31.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Dec2024 00:19:31.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Dec2024 00:19:31.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dimension): All chunks are saved
+[19Dec2024 00:19:31.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Dec2024 00:19:31.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

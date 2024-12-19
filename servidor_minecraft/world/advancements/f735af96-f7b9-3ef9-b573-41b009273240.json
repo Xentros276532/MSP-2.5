@@ -4761,6 +4761,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2024-12-19 00:14:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/advanced_pump_upgrade": {
     "criteria": {
       "has_pump_upgrade": "2024-12-19 00:05:12 +0000"
@@ -5088,6 +5094,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-12-19 00:05:51 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_rod_nether": {
+    "criteria": {
+      "gobber2_rod_nether": "2024-12-19 00:18:00 +0000"
     },
     "done": true
   },

@@ -890,6 +890,7 @@
       "minecraft:witch": "2024-12-18 00:08:39 +0000",
       "minecraft:husk": "2024-12-17 20:28:45 +0000",
       "minecraft:cave_spider": "2024-12-17 19:52:10 +0000",
+      "minecraft:piglin": "2024-12-19 00:14:59 +0000",
       "minecraft:enderman": "2024-12-18 18:02:36 +0000",
       "minecraft:zombie": "2024-12-17 19:22:19 +0000",
       "minecraft:drowned": "2024-12-17 21:00:49 +0000"
@@ -4687,6 +4688,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:17:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2024-12-18 22:43:30 +0000"
@@ -4702,6 +4709,24 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-18 22:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:17:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2024-12-19 00:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:17:32 +0000"
     },
     "done": true
   },
@@ -4729,9 +4754,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-19 00:13:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-19 00:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-19 00:13:56 +0000"
     },
     "done": true
   },
@@ -4750,6 +4793,12 @@
   "create:recipes/building_blocks/spruce_window": {
     "criteria": {
       "has_ingredient": "2024-12-19 00:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-19 00:13:56 +0000"
     },
     "done": true
   },
@@ -4777,9 +4826,33 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/quartz_dust_from_gem": {
+    "criteria": {
+      "has_quartz_gem": "2024-12-19 00:13:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2024-12-18 22:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-19 00:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:17:32 +0000"
     },
     "done": true
   },
@@ -4804,6 +4877,18 @@
   "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
     "criteria": {
       "has_dragonscales_black": "2024-12-18 23:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:17:32 +0000"
     },
     "done": true
   },
@@ -4849,6 +4934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:17:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-19 00:09:20 +0000"
@@ -4873,6 +4964,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2024-12-19 00:13:56 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_black_chestplate": {
     "criteria": {
       "has_item": "2024-12-18 23:40:36 +0000"
@@ -4882,6 +4979,30 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-12-19 00:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-19 00:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-19 00:13:56 +0000"
     },
     "done": true
   },
@@ -4909,6 +5030,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:17:32 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/pork_knuckle": {
+    "criteria": {
+      "has_cooked_porkchop": "2024-12-19 00:15:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-19 00:09:20 +0000"
@@ -4918,6 +5051,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-18 22:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:17:32 +0000"
     },
     "done": true
   },
@@ -4945,6 +5084,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:17:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_lectern": {
     "criteria": {
       "has_bookshelf": "2024-12-18 22:45:50 +0000"
@@ -4966,6 +5111,12 @@
   "iceandfire:recipes/building_blocks/graveyard_soil": {
     "criteria": {
       "has_item": "2024-12-18 22:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:17:32 +0000"
     },
     "done": true
   },
@@ -5008,6 +5159,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2024-12-18 22:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:17:32 +0000"
     },
     "done": true
   },
