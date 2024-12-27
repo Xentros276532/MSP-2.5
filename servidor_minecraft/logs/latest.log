@@ -456,3 +456,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [27Dec2024 23:05:19.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Back to childhood]
 [27Dec2024 23:05:38.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Into Fire]
 [27Dec2024 23:06:41.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Into Fire]
+[27Dec2024 23:11:57.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> xaero-waypoint:SPAWNWE:S:-559:74:518:0:false:0:Internal-the-nether-waypoints
+[27Dec2024 23:14:10.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 withered away
+[27Dec2024 23:14:10.359] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[27Dec2024 23:15:29.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Defunct Machinery]
+[27Dec2024 23:17:08.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 burned to death
+[27Dec2024 23:17:08.013] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[27Dec2024 23:17:44.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to -53.500000, 75.500000, -140.500000]
+[27Dec2024 23:17:51.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> xaero-waypoint:Shared Location:S:-59:73:-139:9:false:0:Internal-the-nether-waypoints
+[27Dec2024 23:18:40.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported JUAN_D to xentros10000]
+[27Dec2024 23:28:56.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to xentros10000]
+[27Dec2024 23:29:02.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to JUAN_D]
