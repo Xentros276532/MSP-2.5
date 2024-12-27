@@ -885,7 +885,9 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-17 20:05:36 +0000",
       "minecraft:hoglin": "2024-12-19 00:11:40 +0000",
+      "minecraft:magma_cube": "2024-12-27 22:30:01 +0000",
       "minecraft:spider": "2024-12-17 20:06:25 +0000",
+      "minecraft:piglin_brute": "2024-12-27 22:29:04 +0000",
       "minecraft:creeper": "2024-12-17 20:18:19 +0000",
       "minecraft:witch": "2024-12-18 00:08:39 +0000",
       "minecraft:husk": "2024-12-17 20:28:45 +0000",
@@ -1341,7 +1343,8 @@
       "apple": "2024-12-18 23:56:27 +0000",
       "bread": "2024-12-17 20:00:44 +0000",
       "rotten_flesh": "2024-12-17 19:24:46 +0000",
-      "glow_berries": "2024-12-17 19:54:51 +0000"
+      "glow_berries": "2024-12-17 19:54:51 +0000",
+      "enchanted_golden_apple": "2024-12-27 22:29:49 +0000"
     },
     "done": false
   },
@@ -5002,7 +5005,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-19 00:10:08 +0000",
-      "minecraft:nether_wastes": "2024-12-19 00:09:22 +0000"
+      "minecraft:nether_wastes": "2024-12-19 00:09:22 +0000",
+      "minecraft:soul_sand_valley": "2024-12-27 22:27:42 +0000"
     },
     "done": false
   },
@@ -5180,9 +5184,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-27 22:32:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-27 22:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-27 22:30:11 +0000"
     },
     "done": true
   },
@@ -5204,6 +5220,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-27 22:32:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-27 22:24:14 +0000"
@@ -5213,6 +5235,18 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2024-12-27 22:23:59 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_chestplate_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-27 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-27 22:32:06 +0000"
     },
     "done": true
   },
@@ -5228,6 +5262,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-27 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-27 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-27 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_leggings_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-27 22:30:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-27 22:24:14 +0000"
@@ -5240,15 +5298,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-27 22:30:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-27 22:24:14 +0000"
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2024-12-27 22:30:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-27 22:32:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-27 22:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-27 22:32:06 +0000"
     },
     "done": true
   },
@@ -5270,9 +5352,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-27 22:30:36 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_boots_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-27 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-27 22:32:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/scoria": {
     "criteria": {
       "has_item": "2024-12-27 22:24:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-27 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-27 22:30:12 +0000"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/advanced_enchanting_infuser": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-27 22:30:11 +0000"
     },
     "done": true
   },
@@ -5282,9 +5400,63 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-27 22:30:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-27 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-27 22:30:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-27 22:24:14 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_helmet_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-27 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_horse_armor_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-27 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-27 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/netherite_dust_from_ingot": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-27 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-27 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-27 22:30:11 +0000"
     },
     "done": true
   },
@@ -5300,9 +5472,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-27 22:32:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2024-12-27 22:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-27 22:28:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-27 22:30:11 +0000"
     },
     "done": true
   },

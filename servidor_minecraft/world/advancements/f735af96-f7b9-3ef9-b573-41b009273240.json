@@ -1379,7 +1379,9 @@
       "minecraft:pillager": "2024-12-17 21:30:08 +0000",
       "minecraft:skeleton": "2024-12-17 19:48:52 +0000",
       "minecraft:vindicator": "2024-12-17 21:36:30 +0000",
+      "minecraft:magma_cube": "2024-12-27 22:31:17 +0000",
       "minecraft:spider": "2024-12-17 19:47:48 +0000",
+      "minecraft:piglin_brute": "2024-12-27 22:27:26 +0000",
       "minecraft:creeper": "2024-12-17 20:01:44 +0000",
       "minecraft:evoker": "2024-12-17 21:33:17 +0000",
       "minecraft:slime": "2024-12-17 19:55:12 +0000",
@@ -5368,10 +5370,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-19 00:10:55 +0000",
       "minecraft:nether_wastes": "2024-12-19 00:09:26 +0000",
+      "minecraft:soul_sand_valley": "2024-12-27 22:25:40 +0000",
       "minecraft:basalt_deltas": "2024-12-19 00:12:45 +0000",
       "minecraft:warped_forest": "2024-12-19 00:12:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
@@ -5412,6 +5415,102 @@
   "gobber2:gobber2_rod_nether": {
     "criteria": {
       "gobber2_rod_nether": "2024-12-19 00:18:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-27 22:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-27 22:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-27 22:27:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-27 22:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-27 22:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-27 22:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-27 22:26:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-27 22:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-27 22:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-27 22:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-27 22:25:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2024-12-27 22:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-27 22:27:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-27 22:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-27 22:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-27 22:25:40 +0000"
     },
     "done": true
   },

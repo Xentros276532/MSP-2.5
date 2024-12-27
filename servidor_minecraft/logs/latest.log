@@ -427,3 +427,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [27Dec2024 22:25:40.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Those Were the Days]
 [27Dec2024 22:26:30.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Ol' Betsy]
 [27Dec2024 22:27:41.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported JUAN_D to xentros10000]
+[27Dec2024 22:28:47.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Those Were the Days]
+[27Dec2024 22:30:06.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [War Pigs]
+[27Dec2024 22:32:09.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 tried to swim in lava
+[27Dec2024 22:32:09.566] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[27Dec2024 22:32:49.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was burnt to a crisp whilst fighting Magma Cube
+[27Dec2024 22:32:49.712] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[27Dec2024 22:33:37.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was doomed to fall
+[27Dec2024 22:33:37.192] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[27Dec2024 22:35:51.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [War Pigs]

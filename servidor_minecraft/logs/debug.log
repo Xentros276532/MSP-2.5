@@ -8363,3 +8363,24 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [27Dec2024 22:25:40.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Those Were the Days]
 [27Dec2024 22:26:30.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Ol' Betsy]
 [27Dec2024 22:27:41.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported JUAN_D to xentros10000]
+[27Dec2024 22:28:47.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Those Were the Days]
+[27Dec2024 22:30:00.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 22:30:00.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 22:30:06.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [War Pigs]
+[27Dec2024 22:30:06.532] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[27Dec2024 22:31:06.056] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[27Dec2024 22:32:09.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 tried to swim in lava
+[27Dec2024 22:32:09.527] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-389, y:35, z:71, dim:minecraft:the_nether]
+[27Dec2024 22:32:09.566] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[27Dec2024 22:32:49.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was burnt to a crisp whilst fighting Magma Cube
+[27Dec2024 22:32:49.705] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-397, y:36, z:77, dim:minecraft:the_nether]
+[27Dec2024 22:32:49.712] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[27Dec2024 22:33:37.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was doomed to fall
+[27Dec2024 22:33:37.191] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-389, y:36, z:81, dim:minecraft:the_nether]
+[27Dec2024 22:33:37.192] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[27Dec2024 22:35:00.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 22:35:00.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 22:35:51.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [War Pigs]
+[27Dec2024 22:35:51.354] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[27Dec2024 22:37:23.165] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[27Dec2024 22:38:26.300] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
