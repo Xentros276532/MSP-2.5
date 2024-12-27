@@ -468,3 +468,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [27Dec2024 23:28:56.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to xentros10000]
 [27Dec2024 23:29:02.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to JUAN_D]
 [27Dec2024 23:33:30.649] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Hysnije}[style={}] has been infected
+[27Dec2024 23:48:51.599] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mustafa'/29522, l='ServerLevel[world]', x=-246.23, y=71.00, z=-676.48] died, message: 'Mustafa hit the ground too hard'
+[27Dec2024 23:48:51.603] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Mustafa'/29522, l='ServerLevel[world]', x=-246.23, y=71.00, z=-676.48] died: Mustafa fell from a high place
+[27Dec2024 23:49:40.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to -135.500000, 52.500000, -261.500000]
