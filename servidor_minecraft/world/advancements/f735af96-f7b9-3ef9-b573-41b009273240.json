@@ -1377,6 +1377,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-17 21:30:08 +0000",
+      "minecraft:blaze": "2024-12-27 23:02:09 +0000",
       "minecraft:skeleton": "2024-12-17 19:48:52 +0000",
       "minecraft:vindicator": "2024-12-17 21:36:30 +0000",
       "minecraft:magma_cube": "2024-12-27 22:31:17 +0000",
@@ -1386,6 +1387,7 @@
       "minecraft:evoker": "2024-12-17 21:33:17 +0000",
       "minecraft:slime": "2024-12-17 19:55:12 +0000",
       "minecraft:witch": "2024-12-17 22:12:54 +0000",
+      "minecraft:wither_skeleton": "2024-12-27 23:04:27 +0000",
       "minecraft:husk": "2024-12-17 21:02:33 +0000",
       "minecraft:cave_spider": "2024-12-17 20:08:19 +0000",
       "minecraft:piglin": "2024-12-19 00:09:45 +0000",
@@ -1578,6 +1580,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-27 23:04:45 +0000",
       "cooked_beef": "2024-12-17 21:48:32 +0000",
       "beef": "2024-12-18 23:20:40 +0000",
       "porkchop": "2024-12-17 20:51:58 +0000",
@@ -5478,6 +5481,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-27 22:46:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2024-12-27 22:34:54 +0000"
@@ -5520,6 +5529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-27 22:59:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2024-12-27 22:35:51 +0000"
@@ -5538,6 +5553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-27 22:59:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-27 22:25:38 +0000"
@@ -5550,9 +5571,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-27 22:59:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-27 22:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-27 23:01:26 +0000"
     },
     "done": true
   },
@@ -5604,9 +5637,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-27 22:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-27 22:59:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-27 22:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-27 22:59:58 +0000"
     },
     "done": true
   },
@@ -5616,9 +5667,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-27 22:59:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-27 22:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-27 22:59:58 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/pork_knuckle": {
+    "criteria": {
+      "has_cooked_porkchop": "2024-12-27 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-27 23:04:33 +0000"
     },
     "done": true
   },
@@ -5652,6 +5727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-27 22:59:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-12-27 22:25:40 +0000"
@@ -5661,6 +5742,12 @@
   "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-27 22:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-27 23:04:33 +0000"
     },
     "done": true
   },
