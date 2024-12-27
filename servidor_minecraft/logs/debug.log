@@ -8384,3 +8384,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [27Dec2024 22:35:51.354] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
 [27Dec2024 22:37:23.165] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
 [27Dec2024 22:38:26.300] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[27Dec2024 22:40:00.507] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 22:40:00.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 22:40:28.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 fell from a high place
+[27Dec2024 22:40:28.259] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-406, y:48, z:82, dim:minecraft:the_nether]
+[27Dec2024 22:40:28.261] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[27Dec2024 22:44:09.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> xaero-waypoint:Shared Location:S:-519:38:38:1:false:0:Internal-the-nether-waypoints
+[27Dec2024 22:45:00.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 22:45:00.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 22:48:40.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Who is Cutting Onions?]

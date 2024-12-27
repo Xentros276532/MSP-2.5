@@ -436,3 +436,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [27Dec2024 22:33:37.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was doomed to fall
 [27Dec2024 22:33:37.192] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
 [27Dec2024 22:35:51.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [War Pigs]
+[27Dec2024 22:40:28.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 fell from a high place
+[27Dec2024 22:40:28.261] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[27Dec2024 22:44:09.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> xaero-waypoint:Shared Location:S:-519:38:38:1:false:0:Internal-the-nether-waypoints
+[27Dec2024 22:48:40.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Who is Cutting Onions?]
