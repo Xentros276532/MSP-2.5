@@ -840,3 +840,24 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [28Dec2024 22:27:02.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22946ms or 458 ticks behind
 [28Dec2024 22:42:59.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [A Flaming Sword]
 [28Dec2024 22:44:15.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Splintering II]
+[28Dec2024 22:44:21.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [A Flaming Sword]
+[28Dec2024 22:58:40.389] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 lost connection: Timed out
+[28Dec2024 22:58:40.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 left the game
+[28Dec2024 22:58:40.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D lost connection: Disconnected
+[28Dec2024 22:58:40.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D left the game
+[28Dec2024 22:58:40.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20207ms or 404 ticks behind
+[28Dec2024 22:58:40.463] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Dec2024 22:58:52.095] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUAN_D[/100.101.75.56:53724] logged in with entity id 63786 at (-352.32489289671605, 64.0, -639.8036858350364)
+[28Dec2024 22:58:52.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D joined the game
+[28Dec2024 22:58:52.203] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[28Dec2024 22:58:52.204] [Server thread/INFO] [Jade/]: Syncing config to JUAN_D (981de7bf-aff5-3ebe-9eb2-5b5f7c8f79c4)
+[28Dec2024 22:59:02.623] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xentros10000[/100.114.194.50:56938] logged in with entity id 64056 at (-317.57138830931643, 69.0, -617.5661026139148)
+[28Dec2024 22:59:02.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 joined the game
+[28Dec2024 22:59:02.694] [Server thread/INFO] [Jade/]: Syncing config to xentros10000 (f735af96-f7b9-3ef9-b573-41b009273240)
+[28Dec2024 23:02:12.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved too quickly! 9.422752939121835,3.0936253864349936,2.2406429311174634
+[28Dec2024 23:02:23.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 moved too quickly! -7.1116685024580875,1.7482643050827207,6.937874054610873
+[28Dec2024 23:05:55.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved too quickly! -3.545000460273286,3.214623802903148,-9.224424655212019
+[28Dec2024 23:07:04.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved too quickly! 1.8500031331002447,3.1371739812991706,-9.889746715358683
+[28Dec2024 23:07:04.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4418ms or 88 ticks behind
+[28Dec2024 23:09:41.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3615ms or 72 ticks behind
+[28Dec2024 23:14:26.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Clash of the Titans]
