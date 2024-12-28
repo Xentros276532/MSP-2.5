@@ -426,3 +426,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [28Dec2024 17:12:36.845] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xentros10000[/100.114.194.50:60749] logged in with entity id 1340 at (-222.8324033366208, 58.0, -733.2450561821461)
 [28Dec2024 17:12:36.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 joined the game
 [28Dec2024 17:12:36.965] [Server thread/INFO] [Jade/]: Syncing config to xentros10000 (f735af96-f7b9-3ef9-b573-41b009273240)
+[28Dec2024 17:22:29.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Lorem Ipsum]
+[28Dec2024 17:22:35.258] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Egzon'/2988, l='ServerLevel[world]', x=-294.13, y=65.00, z=-628.83] died, message: 'Egzon was slain by Husk'
+[28Dec2024 17:24:41.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Magery]
+[28Dec2024 17:24:46.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [The Journey Begins]
+[28Dec2024 17:24:58.666] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:forlorn_hollows at -3667 -56 -6385 in 2s
+[28Dec2024 17:28:31.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Farije'/1091, l='ServerLevel[world]', x=-273.86, y=70.00, z=-666.60] died, message: 'Farije hit the ground too hard'
+[28Dec2024 17:28:31.611] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Farije'/1091, l='ServerLevel[world]', x=-273.86, y=70.00, z=-666.60] died: Farije fell from a high place
+[28Dec2024 17:29:09.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [It Belongs in a Museum]
+[28Dec2024 17:31:16.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Once Upon a Cave]

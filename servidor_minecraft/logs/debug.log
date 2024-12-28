@@ -8362,3 +8362,23 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [28Dec2024 17:15:56.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Dec2024 17:18:37.128] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [981de7bf-aff5-3ebe-9eb2-5b5f7c8f79c4]
 [28Dec2024 17:18:58.559] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:sandstone} -323 -636 -636 VisualFallingBlockEntity['Falling Sandstone'/2688, l='ServerLevel[world]', x=-322.50, y=59.00, z=-635.50]
+[28Dec2024 17:20:56.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 17:20:56.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 17:22:29.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Lorem Ipsum]
+[28Dec2024 17:22:35.258] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Egzon'/2988, l='ServerLevel[world]', x=-294.13, y=65.00, z=-628.83] died, message: 'Egzon was slain by Husk'
+[28Dec2024 17:24:41.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Magery]
+[28Dec2024 17:24:46.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [The Journey Begins]
+[28Dec2024 17:24:58.666] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:forlorn_hollows at -3667 -56 -6385 in 2s
+[28Dec2024 17:25:56.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 17:25:56.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 17:28:31.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Farije'/1091, l='ServerLevel[world]', x=-273.86, y=70.00, z=-666.60] died, message: 'Farije hit the ground too hard'
+[28Dec2024 17:28:31.611] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Farije'/1091, l='ServerLevel[world]', x=-273.86, y=70.00, z=-666.60] died: Farije fell from a high place
+[28Dec2024 17:29:09.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [It Belongs in a Museum]
+[28Dec2024 17:30:56.072] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 17:30:56.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 17:31:16.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Once Upon a Cave]
+[28Dec2024 17:35:56.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 17:35:56.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 17:38:31.892] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [f735af96-f7b9-3ef9-b573-41b009273240]
+[28Dec2024 17:38:41.427] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [f735af96-f7b9-3ef9-b573-41b009273240]
+[28Dec2024 17:38:49.349] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [b50139df-331d-47c2-bd3d-1631309e31fa]

@@ -5950,5 +5950,29 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2024-12-28 17:24:46 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2024-12-28 17:22:29 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-28 17:29:09 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-12-28 17:31:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
