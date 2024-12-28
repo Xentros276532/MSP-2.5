@@ -311,6 +311,7 @@
       "minecraft:lukewarm_ocean": "2024-12-17 20:09:34 +0000",
       "minecraft:river": "2024-12-17 20:31:37 +0000",
       "minecraft:stony_shore": "2024-12-17 20:30:00 +0000",
+      "minecraft:swamp": "2024-12-28 18:13:10 +0000",
       "minecraft:cold_ocean": "2024-12-28 18:02:44 +0000",
       "minecraft:forest": "2024-12-17 19:21:37 +0000",
       "minecraft:lush_caves": "2024-12-17 22:17:35 +0000",
@@ -5961,6 +5962,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2024-12-28 18:07:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2024-12-28 18:03:35 +0000"
@@ -6033,6 +6040,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/string_from_cattail_fluff": {
+    "criteria": {
+      "has_cattail_fluff": "2024-12-28 18:13:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-12-28 18:02:31 +0000"
@@ -6075,6 +6088,12 @@
     },
     "done": true
   },
+  "vinery:recipes/wine_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2024-12-28 18:07:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2024-12-28 17:41:08 +0000"
@@ -6111,9 +6130,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
+    "criteria": {
+      "has_item": "2024-12-28 18:07:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2024-12-28 18:08:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-28 18:07:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-12-28 17:40:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2024-12-28 18:07:35 +0000"
     },
     "done": true
   },
@@ -6126,6 +6169,12 @@
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2024-12-28 17:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-28 18:07:36 +0000"
     },
     "done": true
   },
@@ -6177,9 +6226,21 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/sapphire_dust_from_gem": {
+    "criteria": {
+      "has_sapphire_gem": "2024-12-28 18:08:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-12-28 17:41:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2024-12-28 18:07:08 +0000"
     },
     "done": true
   },
