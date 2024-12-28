@@ -8494,3 +8494,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [27Dec2024 23:48:51.603] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Mustafa'/29522, l='ServerLevel[world]', x=-246.23, y=71.00, z=-676.48] died: Mustafa fell from a high place
 [27Dec2024 23:49:40.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to -135.500000, 52.500000, -261.500000]
 [27Dec2024 23:49:53.979] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[27Dec2024 23:50:00.095] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ajten'/29651, l='ServerLevel[world]', x=-289.59, y=67.00, z=-647.47] died, message: 'Ajten went up in flames'
+[27Dec2024 23:50:00.099] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ajten'/29651, l='ServerLevel[world]', x=-289.59, y=67.00, z=-647.47] died: Ajten went up in flames
+[27Dec2024 23:50:00.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 23:50:00.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 23:50:10.264] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[27Dec2024 23:50:53.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Piglin
+[27Dec2024 23:50:53.568] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-141, y:43, z:-305, dim:minecraft:the_nether]
+[27Dec2024 23:50:53.581] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[27Dec2024 23:51:37.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to -53.500000, 75.500000, -140.500000]
+[27Dec2024 23:55:00.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 23:55:00.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 23:59:18.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Magery]
+[28Dec2024 00:00:00.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 00:00:00.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

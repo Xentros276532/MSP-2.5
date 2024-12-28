@@ -1379,6 +1379,7 @@
       "minecraft:pillager": "2024-12-17 21:30:08 +0000",
       "minecraft:blaze": "2024-12-27 23:02:09 +0000",
       "minecraft:skeleton": "2024-12-17 19:48:52 +0000",
+      "minecraft:hoglin": "2024-12-27 23:48:09 +0000",
       "minecraft:vindicator": "2024-12-17 21:36:30 +0000",
       "minecraft:magma_cube": "2024-12-27 22:31:17 +0000",
       "minecraft:spider": "2024-12-17 19:47:48 +0000",
@@ -5451,6 +5452,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2024-12-27 23:54:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2024-12-27 23:21:16 +0000"
@@ -5541,6 +5548,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2024-12-27 23:54:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2024-12-27 22:37:33 +0000"
@@ -5550,6 +5563,12 @@
   "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-27 22:37:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2024-12-27 23:54:49 +0000"
     },
     "done": true
   },
@@ -5655,6 +5674,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_diamond": {
+    "criteria": {
+      "requirement": "2024-12-27 23:57:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-27 22:37:13 +0000"
@@ -5739,6 +5764,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-27 23:54:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2024-12-27 22:59:58 +0000"
@@ -5784,6 +5815,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2024-12-27 22:34:54 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-12-27 23:59:18 +0000"
     },
     "done": true
   },
@@ -5844,6 +5881,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2024-12-27 23:06:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2024-12-27 23:54:49 +0000"
     },
     "done": true
   },
