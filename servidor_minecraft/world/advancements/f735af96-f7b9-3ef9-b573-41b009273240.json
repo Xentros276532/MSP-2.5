@@ -6288,9 +6288,21 @@
     },
     "done": true
   },
+  "galosphere:recipes/misc/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2024-12-28 21:37:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-28 21:02:45 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/silver_ingot_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2024-12-28 21:37:44 +0000"
     },
     "done": true
   },
@@ -6366,6 +6378,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/blasting/silver_ingot_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2024-12-28 21:37:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2024-12-28 20:56:55 +0000"
@@ -6420,6 +6438,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2024-12-28 21:37:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/limestone_pillar_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-28 21:02:45 +0000"
@@ -6429,6 +6453,12 @@
   "iceandfire:recipes/combat/tide_blue_boots": {
     "criteria": {
       "has_item": "2024-12-28 21:27:54 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-28 21:37:44 +0000"
     },
     "done": true
   },
@@ -6495,6 +6525,18 @@
   "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-28 21:02:45 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/silver_dust_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2024-12-28 21:37:44 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-28 21:37:44 +0000"
     },
     "done": true
   },
