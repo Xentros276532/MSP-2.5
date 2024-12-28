@@ -6288,6 +6288,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2024-12-28 22:11:30 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/copper_dust_from_raw": {
     "criteria": {
       "has_raw_copper": "2024-12-28 21:07:32 +0000"
@@ -6297,6 +6303,12 @@
   "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-28 21:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-28 22:10:45 +0000"
     },
     "done": true
   },
@@ -6366,6 +6378,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2024-12-28 22:11:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2024-12-28 22:13:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_ice_dragon": "2024-12-28 21:16:28 +0000"
@@ -6417,6 +6441,12 @@
   "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
     "criteria": {
       "has_dragonscales_white": "2024-12-28 21:54:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-28 22:10:45 +0000"
     },
     "done": true
   },
@@ -6498,6 +6528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-28 22:10:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2024-12-28 21:55:48 +0000"
@@ -6570,9 +6606,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-28 22:10:45 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_oak_wine_rack_small": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-28 22:00:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-28 22:11:30 +0000"
     },
     "done": true
   },
@@ -6627,6 +6675,12 @@
   "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-28 21:02:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2024-12-28 22:11:30 +0000"
     },
     "done": true
   },
@@ -6705,6 +6759,18 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2024-12-28 22:03:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2024-12-28 22:11:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2024-12-28 22:11:30 +0000"
     },
     "done": true
   },
