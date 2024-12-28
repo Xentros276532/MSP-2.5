@@ -301,6 +301,7 @@
       "minecraft:old_growth_pine_taiga": "2024-12-18 22:45:32 +0000",
       "minecraft:taiga": "2024-12-28 18:05:29 +0000",
       "minecraft:deep_ocean": "2024-12-28 17:56:01 +0000",
+      "minecraft:frozen_river": "2024-12-28 20:53:54 +0000",
       "minecraft:birch_forest": "2024-12-18 17:29:14 +0000",
       "minecraft:bamboo_jungle": "2024-12-17 20:40:01 +0000",
       "minecraft:savanna_plateau": "2024-12-17 20:14:35 +0000",
@@ -311,6 +312,7 @@
       "minecraft:lukewarm_ocean": "2024-12-17 20:09:34 +0000",
       "minecraft:river": "2024-12-17 20:31:37 +0000",
       "minecraft:stony_shore": "2024-12-17 20:30:00 +0000",
+      "minecraft:snowy_taiga": "2024-12-28 20:53:58 +0000",
       "minecraft:swamp": "2024-12-28 18:13:10 +0000",
       "minecraft:cold_ocean": "2024-12-28 18:02:44 +0000",
       "minecraft:forest": "2024-12-17 19:21:37 +0000",
@@ -5956,21 +5958,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+  "alexscaves:alexscaves/cave_codex": {
     "criteria": {
-      "has_mutton": "2024-12-28 17:53:21 +0000"
+      "cave_codex": "2024-12-28 17:22:29 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_ice": {
+  "alexscaves:alexscaves/cave_map": {
     "criteria": {
-      "has_item": "2024-12-28 18:07:33 +0000"
+      "cave_map": "2024-12-28 17:24:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/beetroot_soup": {
+  "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
-      "has_beetroot": "2024-12-28 18:03:35 +0000"
+      "cave_tablet": "2024-12-28 17:29:09 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-12-28 17:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-28 17:40:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-28 17:40:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-28 17:40:47 +0000"
     },
     "done": true
   },
@@ -5992,27 +6018,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2024-12-28 17:40:47 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_map": {
-    "criteria": {
-      "cave_map": "2024-12-28 17:24:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-12-28 17:41:08 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/display_case": {
-    "criteria": {
-      "has_item_frame": "2024-12-28 17:41:22 +0000"
     },
     "done": true
   },
@@ -6028,33 +6036,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2024-12-28 17:40:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2024-12-28 17:41:08 +0000"
-    },
-    "done": true
-  },
-  "naturalist:recipes/naturalist/string_from_cattail_fluff": {
-    "criteria": {
-      "has_cattail_fluff": "2024-12-28 18:13:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2024-12-28 18:02:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2024-12-28 17:54:06 +0000"
     },
     "done": true
   },
@@ -6064,63 +6048,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2024-12-28 18:03:35 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_codex": {
-    "criteria": {
-      "cave_codex": "2024-12-28 17:22:29 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2024-12-28 17:54:06 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2024-12-28 18:03:35 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/wine_bottle": {
-    "criteria": {
-      "has_glass_bottle": "2024-12-28 18:07:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2024-12-28 17:41:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2024-12-28 17:41:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_cyclops": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-28 17:53:13 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_tablet": {
-    "criteria": {
-      "cave_tablet": "2024-12-28 17:29:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/bestiary": {
-    "criteria": {
-      "has_item": "2024-12-28 17:53:26 +0000"
     },
     "done": true
   },
@@ -6130,69 +6060,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_ice_spikes": {
-    "criteria": {
-      "has_item": "2024-12-28 18:07:26 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
-    "criteria": {
-      "has_sapphire_gem": "2024-12-28 18:08:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2024-12-28 18:07:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2024-12-28 17:40:47 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
-    "criteria": {
-      "has_silver_nugget": "2024-12-28 18:07:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2024-12-28 17:53:21 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_book": {
-    "criteria": {
-      "cave_book": "2024-12-28 17:31:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-28 18:07:36 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/tame_hippocampus": {
-    "criteria": {
-      "tame_rat": "2024-12-28 18:02:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-28 17:41:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_mutton": "2024-12-28 17:53:21 +0000"
     },
     "done": true
   },
@@ -6208,15 +6078,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-28 17:41:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2024-12-28 17:41:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-12-28 17:41:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-28 17:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-28 17:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-28 17:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-28 17:53:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2024-12-28 17:53:21 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/ratatouille": {
+  "iceandfire:recipes/misc/bestiary": {
     "criteria": {
-      "has_any_ingredient": "2024-12-28 18:03:35 +0000"
+      "has_item": "2024-12-28 17:53:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2024-12-28 17:54:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2024-12-28 17:54:06 +0000"
     },
     "done": true
   },
@@ -6226,21 +6150,153 @@
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/sapphire_dust_from_gem": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "has_sapphire_gem": "2024-12-28 18:08:00 +0000"
+      "tamed_animal": "2024-12-28 18:02:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
+  "iceandfire:iceandfire/tame_hippocampus": {
     "criteria": {
-      "has_planks": "2024-12-28 17:41:08 +0000"
+      "tame_rat": "2024-12-28 18:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-28 18:03:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-28 18:03:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-28 18:03:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-28 18:03:35 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2024-12-28 18:07:07 +0000"
     },
     "done": true
   },
   "iceandfire:recipes/combat/dragonbone_sword_ice": {
     "criteria": {
       "has_item": "2024-12-28 18:07:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
+    "criteria": {
+      "has_item": "2024-12-28 18:07:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2024-12-28 18:07:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2024-12-28 18:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-28 18:07:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-28 18:07:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2024-12-28 18:08:00 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/sapphire_dust_from_gem": {
+    "criteria": {
+      "has_sapphire_gem": "2024-12-28 18:08:00 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/string_from_cattail_fluff": {
+    "criteria": {
+      "has_cattail_fluff": "2024-12-28 18:13:12 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/book_of_binding_empty": {
+    "criteria": {
+      "has_writable_book": "2024-12-28 18:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-12-28 18:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-12-28 18:27:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-28 18:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-28 20:56:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-28 20:56:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-28 20:53:57 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/loam": {
+    "criteria": {
+      "has_clay_ball": "2024-12-28 20:56:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-28 20:53:57 +0000"
     },
     "done": true
   },
