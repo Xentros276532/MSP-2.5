@@ -861,3 +861,31 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [28Dec2024 23:07:04.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4418ms or 88 ticks behind
 [28Dec2024 23:09:41.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3615ms or 72 ticks behind
 [28Dec2024 23:14:26.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Clash of the Titans]
+[28Dec2024 23:14:51.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved too quickly! -2.459136424317876,3.9854047274630346,-9.002813107796896
+[28Dec2024 23:14:51.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10068ms or 201 ticks behind
+[28Dec2024 23:16:47.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has completed the challenge [Praise the Sun]
+[28Dec2024 23:19:34.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 moved wrongly!
+[28Dec2024 23:25:36.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Umvuthi, the Sunbird
+[28Dec2024 23:25:41.802] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[28Dec2024 23:25:41.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5161ms or 103 ticks behind
+[28Dec2024 23:27:07.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [The Desert Swimmers]
+[28Dec2024 23:27:25.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[28Dec2024 23:27:33.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved too quickly! 9.857782783198331,3.3281970595066213,0.21211073459471663
+[28Dec2024 23:27:34.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9156ms or 183 ticks behind
+[28Dec2024 23:27:34.717] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[28Dec2024 23:27:36.930] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 lost connection: Disconnected
+[28Dec2024 23:27:36.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 left the game
+[28Dec2024 23:29:27.029] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xentros10000[/100.114.194.50:57925] logged in with entity id 93109 at (-315.5010666847229, 69.0, -615.5)
+[28Dec2024 23:29:27.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 joined the game
+[28Dec2024 23:29:27.050] [Server thread/INFO] [Jade/]: Syncing config to xentros10000 (f735af96-f7b9-3ef9-b573-41b009273240)
+[28Dec2024 23:30:09.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to -1514.500000, 77.500000, 235.500000]
+[28Dec2024 23:30:09.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23639ms or 472 ticks behind
+[28Dec2024 23:30:09.321] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/93484, l='ServerLevel[world]', x=-1509.32, y=79.97, z=231.97, removed=DISCARDED]
+[28Dec2024 23:30:15.414] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Raivo}[style={}] has been infected
+[28Dec2024 23:31:28.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has completed the challenge [Praise the Sun]
+[28Dec2024 23:35:07.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [It's an Emu!!!]
+[28Dec2024 23:35:31.616] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/93484, l='ServerLevel[world]', x=-1509.32, y=79.97, z=231.97, removed=DISCARDED]
+[28Dec2024 23:35:52.575] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/93484, l='ServerLevel[world]', x=-1509.32, y=79.97, z=231.97, removed=DISCARDED]
+[28Dec2024 23:36:11.491] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/93484, l='ServerLevel[world]', x=-1509.32, y=79.97, z=231.97, removed=DISCARDED]
+[28Dec2024 23:43:34.610] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Bahrie'/97352, l='ServerLevel[world]', x=-327.82, y=65.00, z=-655.80] died, message: 'Bahrie hit the ground too hard whilst trying to escape Guster'
+[28Dec2024 23:43:34.614] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Bahrie'/97352, l='ServerLevel[world]', x=-327.82, y=65.00, z=-655.80] died: Bahrie was doomed to fall by Guster
