@@ -7061,6 +7061,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2024-12-28 22:42:17 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/sapphire_dust_from_gem": {
     "criteria": {
       "has_sapphire_gem": "2024-12-28 21:06:39 +0000"
