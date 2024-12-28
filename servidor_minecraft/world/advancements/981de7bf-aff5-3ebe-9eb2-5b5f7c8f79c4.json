@@ -344,6 +344,7 @@
       "minecraft:snowy_plains": "2024-12-28 18:33:05 +0000",
       "minecraft:stony_shore": "2024-12-28 17:47:39 +0000",
       "minecraft:snowy_taiga": "2024-12-28 18:23:13 +0000",
+      "minecraft:swamp": "2024-12-28 21:02:37 +0000",
       "minecraft:cold_ocean": "2024-12-28 17:56:39 +0000",
       "minecraft:forest": "2024-12-17 19:22:30 +0000",
       "minecraft:lush_caves": "2024-12-17 22:13:29 +0000",
@@ -902,6 +903,7 @@
       "minecraft:spider": "2024-12-17 20:06:25 +0000",
       "minecraft:piglin_brute": "2024-12-27 22:29:04 +0000",
       "minecraft:creeper": "2024-12-17 20:18:19 +0000",
+      "minecraft:slime": "2024-12-28 21:02:46 +0000",
       "minecraft:phantom": "2024-12-28 17:42:11 +0000",
       "minecraft:zombified_piglin": "2024-12-27 23:09:57 +0000",
       "minecraft:witch": "2024-12-18 00:08:39 +0000",
@@ -6981,9 +6983,27 @@
     },
     "done": true
   },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2024-12-28 21:03:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2024-12-28 20:54:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2024-12-28 21:06:39 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/sapphire_dust_from_gem": {
+    "criteria": {
+      "has_sapphire_gem": "2024-12-28 21:06:39 +0000"
     },
     "done": true
   },
