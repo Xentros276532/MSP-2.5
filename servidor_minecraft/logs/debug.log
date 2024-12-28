@@ -8475,3 +8475,28 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [28Dec2024 21:41:28.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was doomed to fall
 [28Dec2024 21:41:28.821] [Server thread/DEBUG] [tombstone/]: A new grave of the player JUAN_D was created at position [x:2800, y:1, z:2256, dim:minecraft:overworld]
 [28Dec2024 21:41:28.823] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[28Dec2024 21:43:50.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 21:43:50.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 21:44:29.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Alex's Caves]
+[28Dec2024 21:44:30.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was turned to ice by Ice Dragon
+[28Dec2024 21:44:30.913] [Server thread/DEBUG] [tombstone/]: A new grave of the player JUAN_D was created at position [x:2806, y:13, z:2251, dim:minecraft:overworld]
+[28Dec2024 21:44:30.972] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[28Dec2024 21:45:03.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was slain by Ice Dragon
+[28Dec2024 21:45:03.156] [Server thread/DEBUG] [tombstone/]: A new grave of the player JUAN_D was created at position [x:2803, y:21, z:2241, dim:minecraft:overworld]
+[28Dec2024 21:45:03.175] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[28Dec2024 21:48:50.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 21:48:50.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 21:52:37.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to -318.500000, 67.500000, -666.500000]
+[28Dec2024 21:53:23.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported JUAN_D to xentros10000]
+[28Dec2024 21:53:50.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 21:53:50.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 21:55:48.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Who is Cutting Onions?]
+[28Dec2024 21:58:50.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 21:58:50.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 22:03:50.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 22:03:50.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 22:08:50.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 22:08:50.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 22:11:21.563] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[28Dec2024 22:11:21.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[28Dec2024 22:11:28.210] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot

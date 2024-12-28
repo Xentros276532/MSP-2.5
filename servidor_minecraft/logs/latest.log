@@ -490,3 +490,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [28Dec2024 21:41:05.082] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
 [28Dec2024 21:41:28.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was doomed to fall
 [28Dec2024 21:41:28.823] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[28Dec2024 21:44:29.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Alex's Caves]
+[28Dec2024 21:44:30.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was turned to ice by Ice Dragon
+[28Dec2024 21:44:30.972] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[28Dec2024 21:45:03.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was slain by Ice Dragon
+[28Dec2024 21:45:03.175] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[28Dec2024 21:52:37.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to -318.500000, 67.500000, -666.500000]
+[28Dec2024 21:53:23.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported JUAN_D to xentros10000]
+[28Dec2024 21:55:48.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Who is Cutting Onions?]
