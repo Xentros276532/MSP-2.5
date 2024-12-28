@@ -435,3 +435,118 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [28Dec2024 17:28:31.611] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Farije'/1091, l='ServerLevel[world]', x=-273.86, y=70.00, z=-666.60] died: Farije fell from a high place
 [28Dec2024 17:29:09.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [It Belongs in a Museum]
 [28Dec2024 17:31:16.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Once Upon a Cave]
+[28Dec2024 17:40:58.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to JUAN_D]
+[28Dec2024 17:42:20.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [The Journey Begins]
+[28Dec2024 17:44:21.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of xentros10000) moved wrongly! 0.5160464077538904
+[28Dec2024 17:44:21.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of xentros10000) moved wrongly! 1.1806757062688007
+[28Dec2024 17:46:41.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to JUAN_D]
+[28Dec2024 17:48:14.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Mine? Mine? Mine?]
+[28Dec2024 17:48:48.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of xentros10000) moved wrongly! 0.4209904154230344
+[28Dec2024 17:48:48.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of xentros10000) moved wrongly! 0.9357684810747742
+[28Dec2024 17:48:48.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of xentros10000) moved wrongly! 1.5105277780862139
+[28Dec2024 17:51:04.278] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/7383, l='ServerLevel[world]', x=1002.03, y=64.85, z=279.88]
+[28Dec2024 17:51:49.718] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/7383, l='ServerLevel[world]', x=1041.36, y=73.00, z=301.23]
+[28Dec2024 17:53:13.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [My Name is Nobody]
+[28Dec2024 17:56:22.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 moved wrongly!
+[28Dec2024 17:57:07.266] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[28Dec2024 18:02:31.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Free Willy]
+[28Dec2024 18:02:31.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Best Friends Forever]
+[28Dec2024 18:02:39.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.786338427758432
+[28Dec2024 18:02:39.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.786338427758432
+[28Dec2024 18:02:39.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.7174491541312707
+[28Dec2024 18:02:41.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.8106073757895661
+[28Dec2024 18:02:41.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.808305324512699
+[28Dec2024 18:02:42.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.7514949672535619
+[28Dec2024 18:02:43.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.7991245950944754
+[28Dec2024 18:02:44.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.7777553009596819
+[28Dec2024 18:02:45.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.5603046185273952
+[28Dec2024 18:02:45.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.718308552708407
+[28Dec2024 18:02:46.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.5189415639652861
+[28Dec2024 18:02:47.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.7191894196783195
+[28Dec2024 18:02:48.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.5673422031277221
+[28Dec2024 18:02:49.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.7910300117868808
+[28Dec2024 18:02:52.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.642762927254402
+[28Dec2024 18:05:12.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported JUAN_D to xentros10000]
+[28Dec2024 18:05:13.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.4700943828975181
+[28Dec2024 18:05:14.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.45112076460422124
+[28Dec2024 18:05:29.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.7772259265825596
+[28Dec2024 18:05:29.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 1.576360960867305
+[28Dec2024 18:05:29.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.7881017617692123
+[28Dec2024 18:05:29.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 1.5968292826887591
+[28Dec2024 18:05:29.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.7967468038852985
+[28Dec2024 18:05:29.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.8008258726292752
+[28Dec2024 18:05:29.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.8037639963508809
+[28Dec2024 18:05:29.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 1.6249403407589398
+[28Dec2024 18:05:29.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.8061254677968464
+[28Dec2024 18:05:29.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.8070774634136342
+[28Dec2024 18:05:29.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 1.6311248236822848
+[28Dec2024 18:05:29.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.8086577037856841
+[28Dec2024 18:05:29.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.7415715770678162
+[28Dec2024 18:05:29.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.6824016133025452
+[28Dec2024 18:05:29.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.6302137052614398
+[28Dec2024 18:05:30.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 1.2305279123518176
+[28Dec2024 18:05:30.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.5250114910402317
+[28Dec2024 18:05:30.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 1.0221910624688917
+[28Dec2024 18:05:30.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 1.4482350833184228
+[28Dec2024 18:05:30.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.34846385932200974
+[28Dec2024 18:05:30.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.2942650256425168
+[28Dec2024 18:05:30.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.5567421090167954
+[28Dec2024 18:06:17.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.6117534393661117
+[28Dec2024 18:06:17.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 1.2864033922292037
+[28Dec2024 18:06:18.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.6125017101380763
+[28Dec2024 18:06:18.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.6292590033322085
+[28Dec2024 18:06:18.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.6440389359290748
+[28Dec2024 18:06:18.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.6572101900496818
+[28Dec2024 18:06:18.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.6700581989794046
+[28Dec2024 18:06:18.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.680873694102047
+[28Dec2024 18:06:18.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 1.4326926585954425
+[28Dec2024 18:06:18.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.696769725348986
+[28Dec2024 18:06:18.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.7033403439527319
+[28Dec2024 18:06:18.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.6224109109307392
+[28Dec2024 18:06:18.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.5510311510056454
+[28Dec2024 18:06:18.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.48807420275170443
+[28Dec2024 18:06:18.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.43254617439151843
+[28Dec2024 18:06:18.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.3595293736862004
+[28Dec2024 18:06:18.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.295128555464089
+[28Dec2024 18:06:30.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.6311503319438998
+[28Dec2024 18:06:30.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 1.311570245850362
+[28Dec2024 18:06:30.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.6731911541960471
+[28Dec2024 18:06:31.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 1.3906910733289806
+[28Dec2024 18:06:31.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.7048742006072644
+[28Dec2024 18:06:31.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.6933803726287806
+[28Dec2024 18:06:31.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 1.3885647880656506
+[28Dec2024 18:06:31.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.6415313837596841
+[28Dec2024 18:06:31.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.6179627341257401
+[28Dec2024 18:06:31.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.5971751851488989
+[28Dec2024 18:06:31.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 1.2029469587955646
+[28Dec2024 18:06:31.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.5478095019593638
+[28Dec2024 18:06:31.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.5204401026367123
+[28Dec2024 18:06:31.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.49630029243417084
+[28Dec2024 18:06:31.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.47500897983582036
+[28Dec2024 18:06:31.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.44240255811382667
+[28Dec2024 18:06:31.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.842527454665742
+[28Dec2024 18:06:31.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.3121514680533437
+[28Dec2024 18:06:31.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.2583122284227102
+[28Dec2024 18:06:36.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.31685366400120074
+[28Dec2024 18:06:36.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 1.0452174203431923
+[28Dec2024 18:06:36.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.341183068755754
+[28Dec2024 18:06:36.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.35123961916178814
+[28Dec2024 18:06:36.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.2627605887842037
+[28Dec2024 18:06:42.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Dragonslayer]
+[28Dec2024 18:09:35.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.8285927985578682
+[28Dec2024 18:09:39.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.4508161138789411
+[28Dec2024 18:09:39.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.5248399625802456
+[28Dec2024 18:09:40.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.7396862279439824
+[28Dec2024 18:09:41.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.5710104320348559
+[28Dec2024 18:09:42.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.8192655973045438
+[28Dec2024 18:09:43.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.5297504481718995
+[28Dec2024 18:09:44.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.7784277580690392
+[28Dec2024 18:09:45.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.3276153495852228
+[28Dec2024 18:09:59.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.5131047088984815
+[28Dec2024 18:09:59.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 1.010227363118247
+[28Dec2024 18:09:59.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 1.448689544140052
+[28Dec2024 18:09:59.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.33619722532648666
+[28Dec2024 18:09:59.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.29056383537454167
+[28Dec2024 18:09:59.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.2503151854366479
+[28Dec2024 18:09:59.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xentros10000) moved wrongly! 0.5156574799630107
+[28Dec2024 18:10:11.114] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2469, y=12, z=1244}
