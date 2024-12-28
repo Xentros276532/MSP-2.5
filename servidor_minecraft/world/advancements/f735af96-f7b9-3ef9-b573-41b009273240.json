@@ -6654,6 +6654,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-28 22:25:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_blue_helmet": {
     "criteria": {
       "has_item": "2024-12-28 21:27:54 +0000"
