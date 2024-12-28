@@ -458,3 +458,26 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [28Dec2024 21:11:23.232] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
 [28Dec2024 21:11:33.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was turned to ice by Ice Dragon
 [28Dec2024 21:11:33.343] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[28Dec2024 21:11:50.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was turned to ice by Ice Dragon
+[28Dec2024 21:11:50.448] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[28Dec2024 21:11:53.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was turned to ice by Ice Dragon
+[28Dec2024 21:11:53.956] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[28Dec2024 21:11:56.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2519ms or 50 ticks behind
+[28Dec2024 21:12:07.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was frozen by Ice Dragon
+[28Dec2024 21:12:07.543] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[28Dec2024 21:12:19.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was frozen by Ice Dragon
+[28Dec2024 21:12:19.275] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[28Dec2024 21:12:58.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was turned to ice by Ice Dragon
+[28Dec2024 21:12:58.484] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[28Dec2024 21:13:28.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was turned to ice by Ice Dragon
+[28Dec2024 21:13:28.532] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[28Dec2024 21:13:36.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was turned to ice by Ice Dragon
+[28Dec2024 21:13:36.525] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[28Dec2024 21:14:29.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was turned to ice by Ice Dragon
+[28Dec2024 21:14:29.026] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[28Dec2024 21:15:46.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was frozen by Ice Dragon
+[28Dec2024 21:15:46.880] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[28Dec2024 21:16:28.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Dragonslayer]
+[28Dec2024 21:17:10.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D fell from a high place
+[28Dec2024 21:17:10.923] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[28Dec2024 21:21:54.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> xaero-waypoint:Shared Location:S:2783:-8:2272:14:false:0:Internal-overworld-waypoints
