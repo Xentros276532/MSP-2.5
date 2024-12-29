@@ -1593,6 +1593,7 @@
       "beef": "2024-12-18 23:20:40 +0000",
       "porkchop": "2024-12-17 20:51:58 +0000",
       "apple": "2024-12-17 21:33:55 +0000",
+      "mutton": "2024-12-29 17:16:19 +0000",
       "bread": "2024-12-17 20:04:44 +0000",
       "golden_apple": "2024-12-17 20:03:21 +0000",
       "rotten_flesh": "2024-12-17 20:00:29 +0000",
@@ -7401,6 +7402,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2024-12-29 00:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-29 17:16:31 +0000"
     },
     "done": true
   },

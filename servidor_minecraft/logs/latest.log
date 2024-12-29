@@ -425,3 +425,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [29Dec2024 17:03:31.411] [Server thread/INFO] [Jade/]: Syncing config to JUAN_D (981de7bf-aff5-3ebe-9eb2-5b5f7c8f79c4)
 [29Dec2024 17:05:34.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Enderman
 [29Dec2024 17:05:34.220] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[29Dec2024 17:20:11.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by JUAN_D using [Polearm]
+[29Dec2024 17:20:11.108] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
