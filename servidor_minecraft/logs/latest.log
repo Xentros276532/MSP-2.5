@@ -429,3 +429,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [29Dec2024 17:20:11.108] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
 [29Dec2024 17:45:33.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.weaponmaster_bleedout.player
 [29Dec2024 17:45:33.131] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[29Dec2024 17:49:18.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has reached the goal [Fortuitous Militia]
+[29Dec2024 17:50:09.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Neighborhood Brawl]
+[29Dec2024 17:51:58.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was frozen to death by xentros10000
+[29Dec2024 17:51:58.633] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[29Dec2024 17:52:26.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by JUAN_D
+[29Dec2024 17:52:26.829] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[29Dec2024 17:54:28.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by JUAN_D using [Polearm]
+[29Dec2024 17:54:28.177] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[29Dec2024 17:54:38.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by JUAN_D using [Polearm]
+[29Dec2024 17:54:38.626] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[29Dec2024 17:55:01.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by JUAN_D using [Polearm]
+[29Dec2024 17:55:01.680] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[29Dec2024 17:55:20.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was slain by xentros10000
+[29Dec2024 17:55:20.226] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[29Dec2024 17:55:23.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Funeral Theft]
