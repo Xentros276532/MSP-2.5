@@ -7405,6 +7405,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 17:55:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-12-29 17:16:31 +0000"

@@ -444,3 +444,25 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [29Dec2024 17:55:20.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was slain by xentros10000
 [29Dec2024 17:55:20.226] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
 [29Dec2024 17:55:23.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Funeral Theft]
+[29Dec2024 17:57:41.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Pest Control]
+[29Dec2024 17:57:41.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has reached the goal [Flowers of the Savanna]
+[29Dec2024 17:57:43.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was killed by magic
+[29Dec2024 17:57:43.134] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[29Dec2024 17:58:17.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Alex's Mobs]
+[29Dec2024 17:58:42.718] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 lost connection: Disconnected
+[29Dec2024 17:58:42.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 left the game
+[29Dec2024 17:58:44.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D lost connection: Disconnected
+[29Dec2024 17:58:44.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D left the game
+[29Dec2024 17:59:30.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Dec2024 17:59:30.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Dec2024 17:59:30.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Dec2024 17:59:30.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Dec2024 17:59:31.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Dec2024 17:59:31.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Dec2024 17:59:31.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/tht:dimension
+[29Dec2024 17:59:31.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Dec2024 17:59:31.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Dec2024 17:59:31.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Dec2024 17:59:31.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dimension): All chunks are saved
+[29Dec2024 17:59:31.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Dec2024 17:59:31.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
