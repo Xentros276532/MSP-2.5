@@ -427,3 +427,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [29Dec2024 17:05:34.220] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
 [29Dec2024 17:20:11.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by JUAN_D using [Polearm]
 [29Dec2024 17:20:11.108] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[29Dec2024 17:45:33.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.weaponmaster_bleedout.player
+[29Dec2024 17:45:33.131] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
