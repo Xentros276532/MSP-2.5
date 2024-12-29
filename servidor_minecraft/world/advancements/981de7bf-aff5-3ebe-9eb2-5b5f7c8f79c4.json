@@ -7109,15 +7109,39 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+  "mowziesmobs:kill_umvuthi": {
     "criteria": {
-      "has_stone_types_calcite": "2024-12-28 23:44:33 +0000"
+      "barako": "2024-12-28 23:16:47 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+  "iceandfire:iceandfire/kill_deathworm": {
     "criteria": {
-      "has_stone_types_calcite": "2024-12-28 23:44:33 +0000"
+      "killed_fire_dragon": "2024-12-28 23:27:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-28 23:27:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_boots": {
+    "criteria": {
+      "has_item": "2024-12-28 23:27:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_helmet": {
+    "criteria": {
+      "has_item": "2024-12-28 23:27:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_leggings": {
+    "criteria": {
+      "has_item": "2024-12-28 23:27:11 +0000"
     },
     "done": true
   },
@@ -7133,9 +7157,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_deathworm": {
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
-      "killed_fire_dragon": "2024-12-28 23:27:07 +0000"
+      "has_rabbit": "2024-12-28 23:28:08 +0000"
     },
     "done": true
   },
@@ -7145,9 +7169,33 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_white_chestplate": {
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
     "criteria": {
-      "has_item": "2024-12-28 23:27:11 +0000"
+      "has_smooth_red_sandstone": "2024-12-28 23:43:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2024-12-28 23:43:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2024-12-28 23:43:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-28 23:44:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-28 23:44:33 +0000"
     },
     "done": true
   },
@@ -7160,24 +7208,6 @@
   "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-28 23:44:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2024-12-29 00:03:37 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/spruce_cabinet": {
-    "criteria": {
-      "has_spruce_trapdoor": "2024-12-29 00:03:27 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_white_boots": {
-    "criteria": {
-      "has_item": "2024-12-28 23:27:11 +0000"
     },
     "done": true
   },
@@ -7205,24 +7235,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_red_sandstone": "2024-12-28 23:43:51 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_white_helmet": {
-    "criteria": {
-      "has_item": "2024-12-28 23:27:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_white_leggings": {
-    "criteria": {
-      "has_item": "2024-12-28 23:27:11 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-28 23:44:33 +0000"
@@ -7232,24 +7244,6 @@
   "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-28 23:44:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
-    "criteria": {
-      "has_smooth_red_sandstone": "2024-12-28 23:43:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
-    "criteria": {
-      "has_rabbit": "2024-12-28 23:28:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_red_sandstone": "2024-12-28 23:43:51 +0000"
     },
     "done": true
   },
@@ -7274,12 +7268,6 @@
   "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-28 23:44:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
-    "criteria": {
-      "has_lily_of_the_valley": "2024-12-29 00:03:35 +0000"
     },
     "done": true
   },
@@ -7313,15 +7301,39 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_umvuthi": {
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
-      "barako": "2024-12-28 23:16:47 +0000"
+      "has_spruce_trapdoor": "2024-12-29 00:03:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2024-12-29 00:03:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-29 00:03:37 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2024-12-29 00:03:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-29 17:11:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-29 17:11:00 +0000"
     },
     "done": true
   },
