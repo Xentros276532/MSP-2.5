@@ -433,3 +433,22 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 20:53:54.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Spray 'n Pray]
 [30Dec2024 20:56:44.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Silverfish
 [30Dec2024 20:56:44.901] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 21:12:11.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 fell from a high place
+[30Dec2024 21:12:11.747] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 21:14:39.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 fell from a high place
+[30Dec2024 21:14:39.076] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 21:16:39.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Second Age]
+[30Dec2024 21:19:02.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was shocked to death by JUAN_D
+[30Dec2024 21:19:02.983] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 21:19:10.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was killed
+[30Dec2024 21:19:10.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Killed JUAN_D]
+[30Dec2024 21:19:10.278] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[30Dec2024 21:19:33.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by JUAN_D
+[30Dec2024 21:19:33.061] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 21:19:50.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Stolen Magic]
+[30Dec2024 21:20:00.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by JUAN_D
+[30Dec2024 21:20:00.236] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 21:36:23.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 froze to death
+[30Dec2024 21:36:23.929] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 21:47:02.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Voluntary Exile]
+[30Dec2024 21:49:32.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [The Right Suit Makes all the Difference]

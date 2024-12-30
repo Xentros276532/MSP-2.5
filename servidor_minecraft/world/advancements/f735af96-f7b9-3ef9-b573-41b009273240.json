@@ -7568,9 +7568,87 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-30 21:35:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2024-12-30 21:19:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-30 21:35:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-30 21:40:07 +0000"
+    },
+    "done": true
+  },
   "evilcraft:evil_source": {
     "criteria": {
       "criteria_0": "2024-12-30 20:44:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-30 21:35:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ochrum_pillar_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-30 21:35:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-30 21:35:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-30 21:35:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-30 21:35:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-30 21:35:57 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_glob": {
+    "criteria": {
+      "gobber2_glob": "2024-12-30 21:22:58 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:second_age": {
+    "criteria": {
+      "criteria_0": "2024-12-30 21:16:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-30 21:35:57 +0000"
     },
     "done": true
   },
@@ -7586,9 +7664,87 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-30 21:35:57 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ingot": {
+    "criteria": {
+      "gobber2_ingot": "2024-12-30 21:23:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-30 21:35:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2024-12-30 21:38:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-30 21:35:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-30 21:35:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-30 21:35:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-30 21:35:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2024-12-30 20:53:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-30 21:35:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-30 21:35:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-30 21:40:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-30 21:35:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-12-30 21:35:57 +0000"
     },
     "done": true
   },
