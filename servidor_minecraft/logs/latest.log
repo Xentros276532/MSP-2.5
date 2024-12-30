@@ -450,3 +450,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 01:30:17.587] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 6 in "main" inventory handler
 [30Dec2024 01:47:48.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Tactical Fishing]
 [30Dec2024 01:55:41.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 moved wrongly!
+[30Dec2024 02:03:02.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 lost connection: Disconnected
+[30Dec2024 02:03:02.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 left the game
