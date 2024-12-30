@@ -8690,3 +8690,27 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 22:38:01.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Dec2024 22:43:01.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Dec2024 22:43:01.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 22:44:26.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by JUAN_D using [Polearm]
+[30Dec2024 22:44:26.525] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-314, y:69, z:-613, dim:minecraft:overworld]
+[30Dec2024 22:44:26.528] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 22:44:32.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D froze to death
+[30Dec2024 22:44:32.922] [Server thread/DEBUG] [tombstone/]: A new grave of the player JUAN_D was created at position [x:-332, y:54, z:-604, dim:minecraft:overworld]
+[30Dec2024 22:44:32.925] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[30Dec2024 22:45:59.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was burnt to a crisp whilst fighting xentros10000
+[30Dec2024 22:45:59.025] [Server thread/DEBUG] [tombstone/]: A new grave of the player JUAN_D was created at position [x:-323, y:60, z:-619, dim:minecraft:overworld]
+[30Dec2024 22:45:59.028] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[30Dec2024 22:46:24.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was burnt to a crisp whilst fighting xentros10000
+[30Dec2024 22:46:24.572] [Server thread/DEBUG] [tombstone/]: A new grave of the player JUAN_D was created at position [x:-319, y:63, z:-617, dim:minecraft:overworld]
+[30Dec2024 22:46:24.575] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[30Dec2024 22:48:01.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 22:48:01.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 22:48:54.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by JUAN_D using [Polearm]
+[30Dec2024 22:48:54.177] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-366, y:62, z:-640, dim:minecraft:overworld]
+[30Dec2024 22:48:54.178] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 22:49:01.465] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D lost connection: Disconnected
+[30Dec2024 22:49:01.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D left the game
+[30Dec2024 22:52:34.104] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand Mine'/57724, l='ServerLevel[world]', x=-344.50, y=63.00, z=-643.50]
+[30Dec2024 22:52:45.866] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 lost connection: Disconnected
+[30Dec2024 22:52:45.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 left the game
+[30Dec2024 22:53:01.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 22:53:01.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
