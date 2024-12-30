@@ -445,3 +445,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 01:14:25.282] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-371, y=37, z=-613} BlockPos{x=-371, y=37, z=-615}
 [30Dec2024 01:14:25.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-371, y=37, z=-613} BlockPos{x=-371, y=37, z=-615}
 [30Dec2024 01:14:25.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-371, y=37, z=-613} BlockPos{x=-371, y=37, z=-615}
+[30Dec2024 01:30:17.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was shocked to death by JUAN_D
+[30Dec2024 01:30:17.542] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 01:30:17.587] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 6 in "main" inventory handler

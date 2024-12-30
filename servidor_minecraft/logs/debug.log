@@ -8393,3 +8393,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 01:14:25.282] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-371, y=37, z=-613} BlockPos{x=-371, y=37, z=-615}
 [30Dec2024 01:14:25.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-371, y=37, z=-613} BlockPos{x=-371, y=37, z=-615}
 [30Dec2024 01:14:25.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-371, y=37, z=-613} BlockPos{x=-371, y=37, z=-615}
+[30Dec2024 01:18:57.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 01:18:57.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 01:23:57.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 01:23:57.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 01:28:57.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 01:28:57.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 01:30:17.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was shocked to death by JUAN_D
+[30Dec2024 01:30:17.538] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-322, y:63, z:-602, dim:minecraft:overworld]
+[30Dec2024 01:30:17.542] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 01:30:17.587] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 6 in "main" inventory handler
+[30Dec2024 01:33:57.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 01:33:57.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
