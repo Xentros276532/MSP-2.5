@@ -902,7 +902,9 @@
       "minecraft:blaze": "2024-12-27 23:05:37 +0000",
       "minecraft:pillager": "2024-12-30 21:41:06 +0000",
       "minecraft:skeleton": "2024-12-17 20:05:36 +0000",
+      "minecraft:ravager": "2024-12-30 21:54:46 +0000",
       "minecraft:hoglin": "2024-12-19 00:11:40 +0000",
+      "minecraft:vindicator": "2024-12-30 21:54:10 +0000",
       "minecraft:magma_cube": "2024-12-27 22:30:01 +0000",
       "minecraft:spider": "2024-12-17 20:06:25 +0000",
       "minecraft:piglin_brute": "2024-12-27 22:29:04 +0000",
@@ -7601,6 +7603,12 @@
   "vinery:recipes/coarse_dirt_slab": {
     "criteria": {
       "has_coarse_dirt": "2024-12-30 21:28:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-12-30 21:55:37 +0000"
     },
     "done": true
   },
