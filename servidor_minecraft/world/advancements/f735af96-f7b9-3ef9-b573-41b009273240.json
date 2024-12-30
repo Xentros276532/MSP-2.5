@@ -1399,6 +1399,7 @@
       "minecraft:cave_spider": "2024-12-17 20:08:19 +0000",
       "minecraft:piglin": "2024-12-19 00:09:45 +0000",
       "minecraft:enderman": "2024-12-18 00:11:18 +0000",
+      "minecraft:silverfish": "2024-12-30 20:56:47 +0000",
       "minecraft:vex": "2024-12-17 21:33:19 +0000",
       "minecraft:zombie": "2024-12-17 19:49:35 +0000",
       "minecraft:drowned": "2024-12-18 22:00:50 +0000"
@@ -7564,6 +7565,30 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-30 01:57:01 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2024-12-30 20:44:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2024-12-30 20:53:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/blood_sprayer": {
+    "criteria": {
+      "blood_sprayer": "2024-12-30 20:53:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-12-30 20:53:47 +0000"
     },
     "done": true
   },

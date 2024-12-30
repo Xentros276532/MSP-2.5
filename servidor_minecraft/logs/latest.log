@@ -429,3 +429,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 20:36:57.559] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUAN_D[/100.101.75.56:59694] logged in with entity id 1746 at (-236.69747002844593, 72.0, -657.7703184443644)
 [30Dec2024 20:36:57.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D joined the game
 [30Dec2024 20:36:57.662] [Server thread/INFO] [Jade/]: Syncing config to JUAN_D (981de7bf-aff5-3ebe-9eb2-5b5f7c8f79c4)
+[30Dec2024 20:44:32.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [A True Source of Evil]
+[30Dec2024 20:53:54.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Spray 'n Pray]
+[30Dec2024 20:56:44.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Silverfish
+[30Dec2024 20:56:44.901] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
