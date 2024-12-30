@@ -464,3 +464,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 22:20:15.027] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
 [30Dec2024 22:20:38.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Clash of the Titans]
 [30Dec2024 22:21:05.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported JUAN_D to xentros10000]
+[30Dec2024 22:36:23.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was killed by JUAN_D using [Polearm]
+[30Dec2024 22:36:23.727] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 22:37:05.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was frozen to death by xentros10000
+[30Dec2024 22:37:05.382] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved

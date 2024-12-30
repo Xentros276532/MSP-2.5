@@ -8674,3 +8674,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 22:20:15.027] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
 [30Dec2024 22:20:38.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Clash of the Titans]
 [30Dec2024 22:21:05.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported JUAN_D to xentros10000]
+[30Dec2024 22:23:01.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 22:23:01.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 22:28:01.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 22:28:01.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 22:33:01.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 22:33:01.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 22:36:23.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was killed by JUAN_D using [Polearm]
+[30Dec2024 22:36:23.721] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-319, y:63, z:-597, dim:minecraft:overworld]
+[30Dec2024 22:36:23.727] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 22:37:05.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was frozen to death by xentros10000
+[30Dec2024 22:37:05.375] [Server thread/DEBUG] [tombstone/]: A new grave of the player JUAN_D was created at position [x:-334, y:56, z:-620, dim:minecraft:overworld]
+[30Dec2024 22:37:05.382] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[30Dec2024 22:38:01.822] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 22:38:01.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 22:43:01.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 22:43:01.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
