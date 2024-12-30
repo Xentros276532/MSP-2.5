@@ -448,3 +448,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 01:30:17.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was shocked to death by JUAN_D
 [30Dec2024 01:30:17.542] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
 [30Dec2024 01:30:17.587] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 6 in "main" inventory handler
+[30Dec2024 01:47:48.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Tactical Fishing]
+[30Dec2024 01:55:41.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 moved wrongly!
