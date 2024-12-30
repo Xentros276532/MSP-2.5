@@ -8365,3 +8365,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 00:48:57.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Dec2024 00:53:57.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Dec2024 00:53:57.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 00:58:57.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 00:58:57.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 00:59:49.512] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [f735af96-f7b9-3ef9-b573-41b009273240]
+[30Dec2024 01:00:57.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by JUAN_D
+[30Dec2024 01:00:57.698] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-318, y:63, z:-603, dim:minecraft:overworld]
+[30Dec2024 01:00:57.701] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 01:01:11.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by JUAN_D
+[30Dec2024 01:01:11.091] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-319, y:63, z:-604, dim:minecraft:overworld]
+[30Dec2024 01:01:11.092] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 01:01:27.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by JUAN_D
+[30Dec2024 01:01:27.639] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-321, y:64, z:-600, dim:minecraft:overworld]
+[30Dec2024 01:01:27.640] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 01:03:57.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 01:03:57.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
