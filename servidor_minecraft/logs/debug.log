@@ -8357,3 +8357,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 00:35:17.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by JUAN_D using [Polearm]
 [30Dec2024 00:35:17.973] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-268, y:65, z:-626, dim:minecraft:overworld]
 [30Dec2024 00:35:17.983] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[30Dec2024 00:38:57.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 00:38:57.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 00:43:57.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 00:43:57.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 00:48:57.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 00:48:57.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 00:53:57.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 00:53:57.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
