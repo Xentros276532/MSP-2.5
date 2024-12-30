@@ -8379,3 +8379,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 01:01:27.640] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
 [30Dec2024 01:03:57.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Dec2024 01:03:57.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 01:08:57.795] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 01:08:57.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 01:13:57.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 01:13:57.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 01:14:24.919] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-371, y=37, z=-613} BlockPos{x=-371, y=37, z=-615}
+[30Dec2024 01:14:24.965] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-371, y=37, z=-613} BlockPos{x=-371, y=37, z=-615}
+[30Dec2024 01:14:25.037] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-371, y=37, z=-613} BlockPos{x=-371, y=37, z=-615}
+[30Dec2024 01:14:25.085] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-371, y=37, z=-613} BlockPos{x=-371, y=37, z=-615}
+[30Dec2024 01:14:25.133] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-371, y=37, z=-613} BlockPos{x=-371, y=37, z=-615}
+[30Dec2024 01:14:25.151] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-371, y=37, z=-613} BlockPos{x=-371, y=37, z=-615}
+[30Dec2024 01:14:25.207] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-371, y=37, z=-613} BlockPos{x=-371, y=37, z=-615}
+[30Dec2024 01:14:25.282] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-371, y=37, z=-613} BlockPos{x=-371, y=37, z=-615}
+[30Dec2024 01:14:25.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-371, y=37, z=-613} BlockPos{x=-371, y=37, z=-615}
+[30Dec2024 01:14:25.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-371, y=37, z=-613} BlockPos{x=-371, y=37, z=-615}
