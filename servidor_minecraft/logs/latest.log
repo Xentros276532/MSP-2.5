@@ -426,3 +426,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 20:13:11.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D joined the game
 [30Dec2024 20:13:11.538] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
 [30Dec2024 20:13:11.539] [Server thread/INFO] [Jade/]: Syncing config to JUAN_D (981de7bf-aff5-3ebe-9eb2-5b5f7c8f79c4)
+[30Dec2024 20:28:25.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xentros10000[/100.114.194.50:54536] logged in with entity id 4407 at (-322.3996092789213, 63.0, -619.8121229506421)
+[30Dec2024 20:28:25.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 joined the game
+[30Dec2024 20:28:25.560] [Server thread/INFO] [Jade/]: Syncing config to xentros10000 (f735af96-f7b9-3ef9-b573-41b009273240)
