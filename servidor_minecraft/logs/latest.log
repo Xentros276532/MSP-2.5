@@ -422,3 +422,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 20:00:46.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6194ms or 123 ticks behind
 [30Dec2024 20:02:55.933] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D lost connection: Timed out
 [30Dec2024 20:02:55.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D left the game
+[30Dec2024 20:13:11.458] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUAN_D[/100.101.75.56:52740] logged in with entity id 1433 at (-366.73293115292023, 63.0, -622.2873497922598)
+[30Dec2024 20:13:11.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D joined the game
+[30Dec2024 20:13:11.538] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[30Dec2024 20:13:11.539] [Server thread/INFO] [Jade/]: Syncing config to JUAN_D (981de7bf-aff5-3ebe-9eb2-5b5f7c8f79c4)
