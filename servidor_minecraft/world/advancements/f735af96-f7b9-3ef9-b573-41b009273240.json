@@ -7718,6 +7718,12 @@
     },
     "done": true
   },
+  "evilcraft:closure": {
+    "criteria": {
+      "criteria_0": "2024-12-30 22:09:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-12-30 21:35:57 +0000"

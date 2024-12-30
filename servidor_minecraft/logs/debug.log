@@ -8662,3 +8662,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 22:08:59.546] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
 [30Dec2024 22:09:35.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Eternal Closure]
 [30Dec2024 22:10:16.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Tie me to the Mast]
+[30Dec2024 22:12:45.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[30Dec2024 22:13:02.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 22:13:02.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 22:13:37.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to JUAN_D]
+[30Dec2024 22:15:06.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to -318.500000, 67.500000, -666.500000]
+[30Dec2024 22:18:02.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 22:18:02.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 22:20:14.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was turned to stone by Gorgon
+[30Dec2024 22:20:14.987] [Server thread/DEBUG] [tombstone/]: A new grave of the player JUAN_D was created at position [x:2071, y:55, z:-865, dim:minecraft:overworld]
+[30Dec2024 22:20:15.027] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[30Dec2024 22:20:38.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Clash of the Titans]
+[30Dec2024 22:21:05.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported JUAN_D to xentros10000]

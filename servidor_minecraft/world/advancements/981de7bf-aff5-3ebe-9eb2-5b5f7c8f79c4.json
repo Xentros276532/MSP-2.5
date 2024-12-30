@@ -354,6 +354,7 @@
       "minecraft:desert": "2024-12-17 20:25:56 +0000",
       "minecraft:jungle": "2024-12-17 20:24:26 +0000",
       "minecraft:ocean": "2024-12-28 17:55:24 +0000",
+      "minecraft:windswept_savanna": "2024-12-30 22:17:57 +0000",
       "minecraft:warm_ocean": "2024-12-17 20:38:46 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-18 22:06:40 +0000",
       "minecraft:flower_forest": "2024-12-28 17:52:16 +0000",
@@ -7564,6 +7565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-30 22:10:26 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/fermentation_barrel": {
     "criteria": {
       "has_barrel": "2024-12-30 21:44:04 +0000"
@@ -7573,6 +7580,18 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-12-30 21:47:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2024-12-30 22:09:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2024-12-30 22:09:44 +0000"
     },
     "done": true
   },
@@ -7606,6 +7625,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-30 22:10:16 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_bronze_boots": {
     "criteria": {
       "has_item": "2024-12-30 22:04:55 +0000"
@@ -7618,9 +7643,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-30 22:10:26 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/coarse_dirt_slab": {
     "criteria": {
       "has_coarse_dirt": "2024-12-30 21:28:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-30 22:10:26 +0000"
     },
     "done": true
   },
@@ -7636,9 +7673,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2024-12-30 22:09:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_tank": {
     "criteria": {
       "has_item": "2024-12-30 21:44:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-30 22:09:44 +0000"
     },
     "done": true
   },
@@ -7681,6 +7730,12 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-30 21:41:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2024-12-30 22:09:44 +0000"
     },
     "done": true
   },
