@@ -8076,6 +8076,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_glob_nether": {
+    "criteria": {
+      "gobber2_glob_nether": "2025-01-03 22:07:15 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_green_boots": {
     "criteria": {
       "has_item": "2025-01-03 21:10:58 +0000"
