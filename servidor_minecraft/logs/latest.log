@@ -519,3 +519,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [03Jan2025 23:10:42.759] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [03Jan2025 23:10:42.761] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [03Jan2025 23:16:12.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Convergent Evolution...]
+[03Jan2025 23:17:52.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[03Jan2025 23:19:14.481] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 23:19:14.482] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 23:27:13.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has completed the challenge [Premium!]
+[03Jan2025 23:32:06.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4530ms or 90 ticks behind
+[03Jan2025 23:32:06.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved too quickly! -9.839401038789504,-2.0784000015258783,1.521151926637458
+[03Jan2025 23:32:06.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 moved too quickly! -8.279176830353208,2.750812921255317,-4.9921443763319076
+[03Jan2025 23:33:23.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved too quickly! 0.530847489687801,2.093233435198087,-9.875324874012193
+[03Jan2025 23:35:46.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[03Jan2025 23:36:28.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[03Jan2025 23:37:10.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[03Jan2025 23:37:15.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Dragon Growth Hormone]
+[03Jan2025 23:37:21.151] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 23:37:21.151] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 23:37:27.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind

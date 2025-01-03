@@ -322,6 +322,7 @@
       "minecraft:desert": "2024-12-17 20:43:58 +0000",
       "minecraft:ocean": "2024-12-18 17:28:55 +0000",
       "minecraft:jungle": "2024-12-18 23:02:03 +0000",
+      "minecraft:snowy_beach": "2025-01-03 23:18:47 +0000",
       "minecraft:warm_ocean": "2024-12-17 20:44:26 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-18 17:45:03 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-18 17:29:02 +0000",
@@ -1387,6 +1388,7 @@
       "minecraft:pillager": "2024-12-17 21:30:08 +0000",
       "minecraft:blaze": "2024-12-27 23:02:09 +0000",
       "minecraft:skeleton": "2024-12-17 19:48:52 +0000",
+      "minecraft:ravager": "2025-01-03 23:24:28 +0000",
       "minecraft:hoglin": "2024-12-27 23:48:09 +0000",
       "minecraft:vindicator": "2024-12-17 21:36:30 +0000",
       "minecraft:magma_cube": "2024-12-27 22:31:17 +0000",
@@ -1403,6 +1405,7 @@
       "minecraft:piglin": "2024-12-19 00:09:45 +0000",
       "minecraft:enderman": "2024-12-18 00:11:18 +0000",
       "minecraft:silverfish": "2024-12-30 20:56:47 +0000",
+      "minecraft:stray": "2025-01-03 23:23:21 +0000",
       "minecraft:vex": "2024-12-17 21:33:19 +0000",
       "minecraft:zombie": "2024-12-17 19:49:35 +0000",
       "minecraft:drowned": "2024-12-18 22:00:50 +0000"
@@ -8359,15 +8362,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2025-01-03 23:31:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/lectern": {
     "criteria": {
       "bestiary": "2025-01-03 20:25:24 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2025-01-03 23:31:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_leggings": {
     "criteria": {
       "has_item": "2025-01-03 23:14:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-03 23:31:19 +0000"
     },
     "done": true
   },
@@ -8437,6 +8458,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2025-01-03 23:31:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2025-01-03 22:53:28 +0000"
@@ -8452,6 +8479,12 @@
   "occultism:recipes/building_blocks/crafting/silver_block": {
     "criteria": {
       "has_silver_ingot": "2025-01-03 22:53:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2025-01-03 23:31:19 +0000"
     },
     "done": true
   },
@@ -8488,6 +8521,12 @@
   "alexsmobs:alexsmobs/tigers_blessing": {
     "criteria": {
       "all_effects": "2025-01-03 20:41:53 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-01-03 23:27:13 +0000"
     },
     "done": true
   },
