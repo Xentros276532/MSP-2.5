@@ -4014,6 +4014,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "potato": "2025-01-03 20:48:54 +0000",
       "wheat": "2024-12-18 21:54:03 +0000",
       "carrot": "2024-12-18 21:54:08 +0000"
     },
@@ -8298,6 +8299,12 @@
   "iceandfire:iceandfire/bestiary": {
     "criteria": {
       "bestiary": "2025-01-03 20:25:44 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2025-01-03 20:41:53 +0000"
     },
     "done": true
   },
