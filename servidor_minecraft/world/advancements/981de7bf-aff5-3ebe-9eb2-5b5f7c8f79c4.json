@@ -7877,6 +7877,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-01-03 21:29:17 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/chocobo_saddle": {
     "criteria": {
       "has_chocobo_feather": "2025-01-03 20:27:10 +0000"
@@ -8024,6 +8030,12 @@
   "iceandfire:recipes/combat/armor_green_boots": {
     "criteria": {
       "has_item": "2025-01-03 21:10:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-01-03 21:29:17 +0000"
     },
     "done": true
   },
