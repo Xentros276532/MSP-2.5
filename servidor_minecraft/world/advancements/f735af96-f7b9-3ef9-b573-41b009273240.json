@@ -1393,6 +1393,7 @@
       "minecraft:creeper": "2024-12-17 20:01:44 +0000",
       "minecraft:evoker": "2024-12-17 21:33:17 +0000",
       "minecraft:slime": "2024-12-17 19:55:12 +0000",
+      "minecraft:zombified_piglin": "2025-01-03 21:11:00 +0000",
       "minecraft:witch": "2024-12-17 22:12:54 +0000",
       "minecraft:wither_skeleton": "2024-12-27 23:04:27 +0000",
       "minecraft:husk": "2024-12-17 21:02:33 +0000",
@@ -8290,6 +8291,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_bow": {
+    "criteria": {
+      "gobber2_bow": "2025-01-03 20:55:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/lectern": {
     "criteria": {
       "bestiary": "2025-01-03 20:25:24 +0000"
@@ -8305,6 +8312,12 @@
   "alexsmobs:alexsmobs/tigers_blessing": {
     "criteria": {
       "all_effects": "2025-01-03 20:41:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2025-01-03 21:02:40 +0000"
     },
     "done": true
   },

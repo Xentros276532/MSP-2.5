@@ -445,3 +445,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [03Jan2025 20:39:10.933] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/26783, l='ServerLevel[world]', x=495.50, y=56.00, z=1251.50]
 [03Jan2025 20:39:28.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Set the weather to clear]
 [03Jan2025 20:41:53.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has completed the challenge [Eye of the Tiger]
+[03Jan2025 20:55:37.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [A Better Bow]
+[03Jan2025 20:57:36.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved too quickly! 1.6080032917648737,4.690259212927366,-8.883961801965825
+[03Jan2025 21:02:40.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has completed the challenge [Sniper Duel]
+[03Jan2025 21:12:20.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 moved too quickly! -7.0532641419850535,4.0,-19.498590776356565
+[03Jan2025 21:13:02.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Oh Shiny]
+[03Jan2025 21:14:21.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The Nether is shaking...
