@@ -7835,6 +7835,12 @@
     },
     "done": true
   },
+  "gobber2:root": {
+    "criteria": {
+      "gobber2_globette": "2025-01-03 20:34:05 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
     "criteria": {
       "leafcutter_ant_pupa": "2025-01-03 20:18:36 +0000"

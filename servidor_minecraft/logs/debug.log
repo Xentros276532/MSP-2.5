@@ -8385,3 +8385,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [03Jan2025 20:31:04.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jan2025 20:31:04.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Jan2025 20:33:27.478] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=442, y=-44, z=1361} BlockPos{x=448, y=-44, z=1361}
+[03Jan2025 20:36:04.789] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 20:36:04.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 20:39:10.933] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/26783, l='ServerLevel[world]', x=495.50, y=56.00, z=1251.50]
+[03Jan2025 20:39:28.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Set the weather to clear]
+[03Jan2025 20:41:04.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 20:41:04.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 20:41:53.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has completed the challenge [Eye of the Tiger]
+[03Jan2025 20:43:33.828] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot

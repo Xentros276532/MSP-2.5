@@ -442,3 +442,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [03Jan2025 20:26:37.625] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ForgeChocobo['Blizzard'/12496, l='ServerLevel[world]', x=109.94, y=71.00, z=1219.60] died: Blizzard was slain by JUAN_D
 [03Jan2025 20:28:27.283] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ForgeChocobo['Pluto'/12498, l='ServerLevel[world]', x=235.88, y=70.00, z=1193.28] died: Pluto was slain by JUAN_D
 [03Jan2025 20:33:27.478] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=442, y=-44, z=1361} BlockPos{x=448, y=-44, z=1361}
+[03Jan2025 20:39:10.933] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/26783, l='ServerLevel[world]', x=495.50, y=56.00, z=1251.50]
+[03Jan2025 20:39:28.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Set the weather to clear]
+[03Jan2025 20:41:53.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has completed the challenge [Eye of the Tiger]
