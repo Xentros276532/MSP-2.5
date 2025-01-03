@@ -489,3 +489,24 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [03Jan2025 22:07:15.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Gobber Goes Nether]
 [03Jan2025 22:16:21.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Stolen Magic]
 [03Jan2025 22:24:56.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [The Right Suit Makes all the Difference]
+[03Jan2025 22:31:13.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Set the weather to rain]
+[03Jan2025 22:34:34.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [A Stronger Material]
+[03Jan2025 22:36:12.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to 2866.500000, 130.500000, 1894.500000]
+[03Jan2025 22:37:23.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Best Friends Forever]
+[03Jan2025 22:40:15.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [An Ear-Shattering Roar]
+[03Jan2025 22:41:19.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has reached the goal [Magic Siphoner]
+[03Jan2025 22:42:41.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [The Twelve Labors of Hercules]
+[03Jan2025 22:42:52.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 moved too quickly! -0.06074819122295594,16.65753041238895,-0.014727762117217935
+[03Jan2025 22:42:55.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has completed the challenge [Great View From Up Here]
+[03Jan2025 22:43:02.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 moved too quickly! 0.0,17.400396309119742,0.0
+[03Jan2025 22:43:06.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 moved too quickly! 0.0,18.96400137792466,0.0
+[03Jan2025 22:43:08.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Set own game mode to Creative Mode]
+[03Jan2025 22:44:36.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Set own game mode to Survival Mode]
+[03Jan2025 22:48:13.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Make a Tunnel to Nowhere]
+[03Jan2025 22:48:20.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[03Jan2025 22:48:39.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4181ms or 83 ticks behind
+[03Jan2025 22:49:10.725] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[03Jan2025 22:49:18.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has completed the challenge [Rude Awakening]
+[03Jan2025 22:52:58.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Who You Gonna Call?]
+[03Jan2025 22:53:48.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2537ms or 50 ticks behind
+[03Jan2025 22:54:58.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 moved wrongly!
