@@ -8297,6 +8297,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-01-03 21:35:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-03 21:54:53 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/lectern": {
     "criteria": {
       "bestiary": "2025-01-03 20:25:24 +0000"
@@ -8309,9 +8321,27 @@
     },
     "done": true
   },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-01-03 21:38:58 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/bestiary": {
     "criteria": {
       "bestiary": "2025-01-03 20:25:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-01-03 21:54:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-01-03 21:55:52 +0000"
     },
     "done": true
   },
@@ -8321,15 +8351,51 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-01-03 21:43:35 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/tigers_blessing": {
     "criteria": {
       "all_effects": "2025-01-03 20:41:53 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-01-03 21:54:53 +0000"
+    },
+    "done": true
+  },
+  "ancient_golems:prevent_destruction": {
+    "criteria": {
+      "prevent_destruction_0": "2025-01-03 21:39:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-01-03 21:54:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-01-03 21:54:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sniper_duel": {
     "criteria": {
       "killed_skeleton": "2025-01-03 21:02:40 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_glob_nether": {
+    "criteria": {
+      "gobber2_glob_nether": "2025-01-03 21:44:37 +0000"
     },
     "done": true
   },
