@@ -318,6 +318,7 @@
       "minecraft:cold_ocean": "2024-12-28 18:02:44 +0000",
       "minecraft:forest": "2024-12-17 19:21:37 +0000",
       "minecraft:lush_caves": "2024-12-17 22:17:35 +0000",
+      "minecraft:frozen_ocean": "2025-01-03 22:56:43 +0000",
       "minecraft:desert": "2024-12-17 20:43:58 +0000",
       "minecraft:ocean": "2024-12-18 17:28:55 +0000",
       "minecraft:jungle": "2024-12-18 23:02:03 +0000",
@@ -8298,9 +8299,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2025-01-03 23:14:55 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
       "all_effects": "2025-01-03 21:35:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-03 23:14:55 +0000"
     },
     "done": true
   },
@@ -8313,6 +8326,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-01-03 22:50:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed": "2025-01-03 23:16:12 +0000"
     },
     "done": true
   },
@@ -8343,6 +8362,12 @@
   "iceandfire:iceandfire/lectern": {
     "criteria": {
       "bestiary": "2025-01-03 20:25:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-01-03 23:14:55 +0000"
     },
     "done": true
   },
@@ -8430,6 +8455,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-01-03 23:14:55 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/sunbird_blessing": {
     "criteria": {
       "all_effects": "2025-01-03 21:26:07 +0000"
@@ -8478,6 +8509,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-03 23:07:35 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
     "criteria": {
       "has_dragonscales_red": "2025-01-03 21:54:53 +0000"
@@ -8493,6 +8530,12 @@
   "minecraft:adventure/sniper_duel": {
     "criteria": {
       "killed_skeleton": "2025-01-03 21:02:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2025-01-03 23:14:55 +0000"
     },
     "done": true
   },
