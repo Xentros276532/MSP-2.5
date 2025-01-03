@@ -7818,6 +7818,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-01-03 22:16:21 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_green_leggings": {
     "criteria": {
       "has_item": "2025-01-03 21:10:58 +0000"
@@ -7848,6 +7854,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_armor": {
+    "criteria": {
+      "gobber2_chestplate": "2025-01-03 22:24:56 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/choco_disguise_leggings": {
     "criteria": {
       "has_chocobo_feather": "2025-01-03 20:27:10 +0000"
@@ -7869,6 +7881,12 @@
   "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-03 20:41:18 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_glob": {
+    "criteria": {
+      "gobber2_glob": "2025-01-03 22:22:47 +0000"
     },
     "done": true
   },
@@ -7923,6 +7941,12 @@
   "gobber2:root": {
     "criteria": {
       "gobber2_globette": "2025-01-03 20:34:05 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ingot": {
+    "criteria": {
+      "gobber2_ingot": "2025-01-03 22:23:45 +0000"
     },
     "done": true
   },
