@@ -341,6 +341,7 @@
       "minecraft:badlands": "2024-12-28 23:21:02 +0000",
       "minecraft:savanna_plateau": "2024-12-28 23:20:44 +0000",
       "minecraft:beach": "2024-12-18 21:46:55 +0000",
+      "minecraft:stony_peaks": "2025-01-03 23:42:45 +0000",
       "minecraft:sparse_jungle": "2024-12-17 20:23:17 +0000",
       "minecraft:lukewarm_ocean": "2024-12-17 19:54:30 +0000",
       "minecraft:river": "2024-12-17 20:21:42 +0000",
@@ -7881,6 +7882,12 @@
   "iceandfire:recipes/building_blocks/ash": {
     "criteria": {
       "has_item": "2025-01-03 21:06:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-01-03 23:37:15 +0000"
     },
     "done": true
   },
