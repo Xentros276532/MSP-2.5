@@ -8269,9 +8269,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/amphithere_macuahuitl": {
+    "criteria": {
+      "has_item": "2025-01-04 01:13:13 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/village_defender": {
     "criteria": {
       "coded_trigger": "2025-01-04 00:40:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_amphithere": {
+    "criteria": {
+      "tame_rat": "2025-01-04 01:12:58 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed": "2025-01-04 00:58:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_arrow": {
+    "criteria": {
+      "has_item": "2025-01-04 01:13:13 +0000"
     },
     "done": true
   },

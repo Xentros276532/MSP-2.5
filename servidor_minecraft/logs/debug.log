@@ -9138,3 +9138,26 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [04Jan2025 00:48:05.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jan2025 00:48:05.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Jan2025 00:49:03.123] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 moved too quickly! -0.22502360035554148,8.3420851612252,5.696332702155132
+[04Jan2025 00:53:05.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 00:53:05.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 00:53:55.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by JUAN_D using [Polearm]
+[04Jan2025 00:53:55.999] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-314, y:59, z:-591, dim:minecraft:overworld]
+[04Jan2025 00:53:56.002] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[04Jan2025 00:58:01.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Rigged from the Start]
+[04Jan2025 00:58:05.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 00:58:05.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 01:03:05.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 01:03:05.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 01:04:48.603] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Neđib'/194177, l='ServerLevel[world]', x=91.02, y=74.00, z=-621.48] died, message: 'Neđib was slain by Husk'
+[04Jan2025 01:04:48.606] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Neđib'/194177, l='ServerLevel[world]', x=91.02, y=74.00, z=-621.48] died: Neđib was slain by Husk
+[04Jan2025 01:05:38.446] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Seid'/193963, l='ServerLevel[world]', x=122.78, y=82.50, z=-665.74] died, message: 'Seid was slain by Miro'
+[04Jan2025 01:05:38.449] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Seid'/193963, l='ServerLevel[world]', x=122.78, y=82.50, z=-665.74] died: Seid was slain by Miro
+[04Jan2025 01:05:43.957] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Danica}[style={}] has been infected
+[04Jan2025 01:08:05.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 01:08:05.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 01:12:58.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Jungle Fliers]
+[04Jan2025 01:13:05.673] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 01:13:05.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 01:13:40.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported JUAN_D to xentros10000]
+[04Jan2025 01:18:05.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 01:18:05.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

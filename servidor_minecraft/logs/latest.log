@@ -27,3 +27,13 @@
 [04Jan2025 00:41:48.150] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Riza'/179969, l='ServerLevel[world]', x=-320.28, y=60.00, z=-641.28] died: Riza was slain by JUAN_D
 [04Jan2025 00:44:48.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 moved wrongly!
 [04Jan2025 00:49:03.123] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 moved too quickly! -0.22502360035554148,8.3420851612252,5.696332702155132
+[04Jan2025 00:53:55.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by JUAN_D using [Polearm]
+[04Jan2025 00:53:56.002] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[04Jan2025 00:58:01.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Rigged from the Start]
+[04Jan2025 01:04:48.603] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Neđib'/194177, l='ServerLevel[world]', x=91.02, y=74.00, z=-621.48] died, message: 'Neđib was slain by Husk'
+[04Jan2025 01:04:48.606] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Neđib'/194177, l='ServerLevel[world]', x=91.02, y=74.00, z=-621.48] died: Neđib was slain by Husk
+[04Jan2025 01:05:38.446] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Seid'/193963, l='ServerLevel[world]', x=122.78, y=82.50, z=-665.74] died, message: 'Seid was slain by Miro'
+[04Jan2025 01:05:38.449] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Seid'/193963, l='ServerLevel[world]', x=122.78, y=82.50, z=-665.74] died: Seid was slain by Miro
+[04Jan2025 01:05:43.957] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Danica}[style={}] has been infected
+[04Jan2025 01:12:58.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Jungle Fliers]
+[04Jan2025 01:13:40.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported JUAN_D to xentros10000]
