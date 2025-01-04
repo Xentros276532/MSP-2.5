@@ -8296,6 +8296,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-04 00:02:52 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_bow": {
     "criteria": {
       "gobber2_bow": "2025-01-03 20:55:37 +0000"
@@ -8335,6 +8341,12 @@
   "alexsmobs:alexsmobs/banana_slug": {
     "criteria": {
       "killed": "2025-01-03 23:16:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-01-03 23:54:25 +0000"
     },
     "done": true
   },
@@ -8383,6 +8395,12 @@
   "iceandfire:recipes/combat/armor_silver_leggings": {
     "criteria": {
       "has_item": "2025-01-03 23:14:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-01-03 23:59:48 +0000"
     },
     "done": true
   },
@@ -8440,6 +8458,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/frost_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-01-04 00:02:52 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_leggings": {
     "criteria": {
       "has_item": "2025-01-03 21:54:53 +0000"
@@ -8449,6 +8473,12 @@
   "galosphere:recipes/tools/spectre_flare": {
     "criteria": {
       "has_silver_ingot": "2025-01-03 22:53:28 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/familiar/mummy_dodge": {
+    "criteria": {
+      "mummy_dodge": "2025-01-03 23:53:43 +0000"
     },
     "done": true
   },
@@ -8512,9 +8542,21 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-01-04 00:02:56 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/ambrosia": {
     "criteria": {
       "has_item": "2025-01-03 22:36:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-01-03 23:59:40 +0000"
     },
     "done": true
   },
@@ -8560,6 +8602,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-01-03 23:54:25 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_boots": {
     "criteria": {
       "has_item": "2025-01-03 21:54:53 +0000"
@@ -8569,6 +8617,18 @@
   "minecraft:adventure/sniper_duel": {
     "criteria": {
       "killed_skeleton": "2025-01-03 21:02:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-01-03 23:48:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-01-03 23:54:25 +0000"
     },
     "done": true
   },
@@ -8596,9 +8656,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-01-03 23:48:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-01-03 22:50:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-01-04 00:02:52 +0000"
     },
     "done": true
   },
