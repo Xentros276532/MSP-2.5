@@ -7819,51 +7819,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/stolen_magic": {
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
     "criteria": {
-      "coded_trigger": "2025-01-03 22:16:21 +0000"
+      "leafcutter_ant_pupa": "2025-01-03 20:18:36 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_green_leggings": {
+  "evilcraft:fart": {
     "criteria": {
-      "has_item": "2025-01-03 21:10:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-01-03 20:41:18 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-03 21:47:05 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_red_chestplate": {
-    "criteria": {
-      "has_item": "2025-01-03 21:49:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-01-03 20:41:18 +0000"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_armor": {
-    "criteria": {
-      "gobber2_chestplate": "2025-01-03 22:24:56 +0000"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_rod": {
-    "criteria": {
-      "gobber2_rod": "2025-01-03 22:47:59 +0000"
+      "criteria_0": "2025-01-03 20:20:51 +0000"
     },
     "done": true
   },
@@ -7873,123 +7837,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_green_helmet": {
-    "criteria": {
-      "has_item": "2025-01-03 21:10:58 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/ash": {
-    "criteria": {
-      "has_item": "2025-01-03 21:06:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_meal": {
-    "criteria": {
-      "bestiary": "2025-01-03 23:37:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
-    "criteria": {
-      "has_polished_granite": "2025-01-03 23:53:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-01-03 23:53:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab": {
-    "criteria": {
-      "has_polished_granite": "2025-01-03 23:53:00 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_horn": {
-    "criteria": {
-      "bestiary": "2025-01-03 22:40:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-01-03 20:41:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2025-01-03 23:32:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-01-03 22:37:23 +0000"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_glob": {
-    "criteria": {
-      "gobber2_glob": "2025-01-03 22:22:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
-    "criteria": {
-      "has_polished_granite": "2025-01-03 23:53:00 +0000"
-    },
-    "done": true
-  },
   "chococraft:recipes/misc/chocobo_saddle_alt": {
     "criteria": {
       "has_chocobo_feather": "2025-01-03 20:27:10 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_slab_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-01-03 20:41:18 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-03 23:32:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-01-03 20:41:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-01-03 21:29:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-01-03 23:53:00 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_red_leggings": {
-    "criteria": {
-      "has_item": "2025-01-03 21:49:55 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_egg": {
-    "criteria": {
-      "egg": "2025-01-03 21:55:53 +0000"
     },
     "done": true
   },
@@ -7999,15 +7849,33 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
+  "chococraft:recipes/misc/choco_disguise_boots": {
     "criteria": {
-      "has_stone_types_asurine": "2025-01-03 20:41:18 +0000"
+      "has_chocobo_feather": "2025-01-03 20:27:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef": {
+  "chococraft:recipes/misc/choco_disguise_chestplate": {
     "criteria": {
-      "has_beef": "2025-01-03 23:32:20 +0000"
+      "has_chocobo_feather": "2025-01-03 20:27:10 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_whistle": {
+    "criteria": {
+      "has_chocobo_feather": "2025-01-03 20:27:10 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_helmet": {
+    "criteria": {
+      "has_chocobo_feather": "2025-01-03 20:27:10 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_saddle_bags": {
+    "criteria": {
+      "has_chocobo_feather": "2025-01-03 20:27:10 +0000"
     },
     "done": true
   },
@@ -8017,27 +7885,45 @@
     },
     "done": true
   },
-  "gobber2:gobber2_hammer": {
+  "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
-      "gobber2_hammer": "2025-01-03 22:48:13 +0000"
+      "has_stone_types_asurine": "2025-01-03 20:41:18 +0000"
     },
     "done": true
   },
-  "gobber2:gobber2_ingot": {
+  "create:recipes/building_blocks/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
-      "gobber2_ingot": "2025-01-03 22:23:45 +0000"
+      "has_stone_types_asurine": "2025-01-03 20:41:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-01-03 20:41:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-01-03 20:41:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-01-03 20:41:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-01-03 20:41:18 +0000"
     },
     "done": true
   },
   "create:recipes/building_blocks/asurine_pillar_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-03 20:41:18 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
-    "criteria": {
-      "leafcutter_ant_pupa": "2025-01-03 20:18:36 +0000"
     },
     "done": true
   },
@@ -8059,63 +7945,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2025-01-03 21:47:05 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_asurine_bricks_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-03 20:41:18 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/rocky_roller": {
-    "criteria": {
-      "killed": "2025-01-03 23:58:51 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_green_chestplate": {
-    "criteria": {
-      "has_item": "2025-01-03 21:10:58 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/choco_disguise_boots": {
-    "criteria": {
-      "has_chocobo_feather": "2025-01-03 20:27:10 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/rocky_shell": {
-    "criteria": {
-      "soul_heart": "2025-01-03 23:58:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/beehive": {
-    "criteria": {
-      "has_honeycomb": "2025-01-03 23:49:03 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-03 20:41:18 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/choco_disguise_chestplate": {
-    "criteria": {
-      "has_chocobo_feather": "2025-01-03 20:27:10 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/chocobo_whistle": {
-    "criteria": {
-      "has_chocobo_feather": "2025-01-03 20:27:10 +0000"
     },
     "done": true
   },
@@ -8131,63 +7969,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
-    "criteria": {
-      "has_dragonscales_green": "2025-01-03 21:10:58 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-03 20:41:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_red_helmet": {
-    "criteria": {
-      "has_item": "2025-01-03 21:49:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_stairs": {
-    "criteria": {
-      "has_polished_granite": "2025-01-03 23:53:00 +0000"
-    },
-    "done": true
-  },
-  "evilcraft:fart": {
-    "criteria": {
-      "criteria_0": "2025-01-03 20:20:51 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
-    "criteria": {
-      "has_dragonscales_red": "2025-01-03 21:49:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/craft_decorated_pot_using_only_sherds": {
-    "criteria": {
-      "pot_crafted_using_only_sherds": "2025-01-03 23:06:27 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_red_boots": {
-    "criteria": {
-      "has_item": "2025-01-03 21:49:55 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/choco_disguise_helmet": {
-    "criteria": {
-      "has_chocobo_feather": "2025-01-03 20:27:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2025-01-03 23:53:00 +0000"
     },
     "done": true
   },
@@ -8203,21 +7987,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-01-03 23:58:58 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-03 20:41:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-01-03 23:53:00 +0000"
     },
     "done": true
   },
@@ -8227,9 +7999,33 @@
     },
     "done": true
   },
-  "gobber2:gobber2_glob_nether": {
+  "iceandfire:recipes/building_blocks/ash": {
     "criteria": {
-      "gobber2_glob_nether": "2025-01-03 22:07:15 +0000"
+      "has_item": "2025-01-03 21:06:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-01-03 21:10:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-01-03 21:10:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-03 21:10:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-01-03 21:10:58 +0000"
     },
     "done": true
   },
@@ -8239,9 +8035,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
-      "has_red_mushroom": "2025-01-03 21:47:05 +0000"
+      "has_iron_block": "2025-01-03 21:29:17 +0000"
     },
     "done": true
   },
@@ -8251,9 +8047,153 @@
     },
     "done": true
   },
-  "chococraft:recipes/misc/chocobo_saddle_bags": {
+  "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
-      "has_chocobo_feather": "2025-01-03 20:27:10 +0000"
+      "has_any_ingredient": "2025-01-03 21:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-03 21:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-03 21:47:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-03 21:49:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-01-03 21:49:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-01-03 21:49:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-01-03 21:49:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-01-03 21:49:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-01-03 21:55:53 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_glob_nether": {
+    "criteria": {
+      "gobber2_glob_nether": "2025-01-03 22:07:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-01-03 22:16:21 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_glob": {
+    "criteria": {
+      "gobber2_glob": "2025-01-03 22:22:47 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ingot": {
+    "criteria": {
+      "gobber2_ingot": "2025-01-03 22:23:45 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_armor": {
+    "criteria": {
+      "gobber2_chestplate": "2025-01-03 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-03 22:37:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-01-03 22:40:15 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_rod": {
+    "criteria": {
+      "gobber2_rod": "2025-01-03 22:47:59 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_hammer": {
+    "criteria": {
+      "gobber2_hammer": "2025-01-03 22:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/craft_decorated_pot_using_only_sherds": {
+    "criteria": {
+      "pot_crafted_using_only_sherds": "2025-01-03 23:06:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-01-03 23:32:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-03 23:32:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-01-03 23:32:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-01-03 23:32:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-01-03 23:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-01-03 23:49:03 +0000"
     },
     "done": true
   },
@@ -8263,9 +8203,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
-      "has_beef": "2025-01-03 23:32:20 +0000"
+      "has_polished_granite": "2025-01-03 23:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-03 23:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2025-01-03 23:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-01-03 23:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-03 23:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2025-01-03 23:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-03 23:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-03 23:53:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed": "2025-01-03 23:58:51 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_shell": {
+    "criteria": {
+      "soul_heart": "2025-01-03 23:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-01-03 23:58:58 +0000"
     },
     "done": true
   },

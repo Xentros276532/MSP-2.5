@@ -3,3 +3,12 @@
 [04Jan2025 00:07:23.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to 1654.500000, 89.500000, 2840.500000]
 [04Jan2025 00:07:43.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to -318.500000, 67.500000, -666.500000]
 [04Jan2025 00:10:05.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported JUAN_D to xentros10000]
+[04Jan2025 00:19:40.952] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D lost connection: Disconnected
+[04Jan2025 00:19:40.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D left the game
+[04Jan2025 00:23:25.555] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUAN_D[/100.101.75.56:57739] logged in with entity id 182944 at (-317.08723106443256, 69.0, -613.1070719411541)
+[04Jan2025 00:23:25.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D joined the game
+[04Jan2025 00:23:25.647] [Server thread/INFO] [Jade/]: Syncing config to JUAN_D (981de7bf-aff5-3ebe-9eb2-5b5f7c8f79c4)
+[04Jan2025 00:26:57.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was shot by xentros10000
+[04Jan2025 00:26:57.904] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[04Jan2025 00:29:36.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was shot by xentros10000
+[04Jan2025 00:29:36.660] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
