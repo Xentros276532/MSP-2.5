@@ -12,3 +12,18 @@
 [04Jan2025 00:26:57.904] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
 [04Jan2025 00:29:36.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was shot by xentros10000
 [04Jan2025 00:29:36.660] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[04Jan2025 00:31:25.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by JUAN_D using [Polearm]
+[04Jan2025 00:31:25.628] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[04Jan2025 00:31:29.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D drowned whilst trying to escape xentros10000
+[04Jan2025 00:31:29.801] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[04Jan2025 00:33:51.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was shot by xentros10000
+[04Jan2025 00:33:52.005] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[04Jan2025 00:38:21.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved wrongly!
+[04Jan2025 00:40:35.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has completed the challenge [Village Defender]
+[04Jan2025 00:40:49.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has completed the challenge [Hero of the Village]
+[04Jan2025 00:41:11.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was killed trying to hurt xentros10000
+[04Jan2025 00:41:11.102] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[04Jan2025 00:41:48.146] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Riza'/179969, l='ServerLevel[world]', x=-320.28, y=60.00, z=-641.28] died, message: 'Riza was slain by JUAN_D'
+[04Jan2025 00:41:48.150] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Riza'/179969, l='ServerLevel[world]', x=-320.28, y=60.00, z=-641.28] died: Riza was slain by JUAN_D
+[04Jan2025 00:44:48.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 moved wrongly!
+[04Jan2025 00:49:03.123] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 moved too quickly! -0.22502360035554148,8.3420851612252,5.696332702155132

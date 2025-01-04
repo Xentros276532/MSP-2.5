@@ -8404,6 +8404,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/ghost_sword": {
+    "criteria": {
+      "has_item": "2025-01-04 00:40:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_sapphire_chestplate": {
     "criteria": {
       "has_item": "2025-01-03 23:31:19 +0000"
@@ -8551,6 +8557,12 @@
   "iceandfire:recipes/food/ambrosia": {
     "criteria": {
       "has_item": "2025-01-03 22:36:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-04 00:40:49 +0000"
     },
     "done": true
   },
