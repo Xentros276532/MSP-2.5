@@ -302,7 +302,9 @@
       "minecraft:taiga": "2024-12-28 18:05:29 +0000",
       "minecraft:deep_ocean": "2024-12-28 17:56:01 +0000",
       "minecraft:frozen_river": "2024-12-28 20:53:54 +0000",
+      "minecraft:sunflower_plains": "2025-01-16 18:41:32 +0000",
       "minecraft:birch_forest": "2024-12-18 17:29:14 +0000",
+      "minecraft:windswept_hills": "2025-01-16 18:46:01 +0000",
       "minecraft:bamboo_jungle": "2024-12-17 20:40:01 +0000",
       "minecraft:savanna_plateau": "2024-12-17 20:14:35 +0000",
       "minecraft:beach": "2024-12-17 20:35:11 +0000",
@@ -323,9 +325,12 @@
       "minecraft:ocean": "2024-12-18 17:28:55 +0000",
       "minecraft:jungle": "2024-12-18 23:02:03 +0000",
       "minecraft:snowy_beach": "2025-01-03 23:18:47 +0000",
+      "minecraft:windswept_savanna": "2025-01-16 19:02:12 +0000",
       "minecraft:warm_ocean": "2024-12-17 20:44:26 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-18 17:45:03 +0000",
+      "minecraft:flower_forest": "2025-01-16 18:41:34 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-18 17:29:02 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-01-16 18:43:25 +0000",
       "minecraft:savanna": "2024-12-17 19:20:47 +0000",
       "minecraft:plains": "2024-12-17 20:31:42 +0000"
     },
@@ -8689,6 +8694,12 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2025-01-04 01:29:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2025-01-16 18:36:29 +0000"
     },
     "done": true
   },
