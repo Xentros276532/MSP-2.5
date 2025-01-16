@@ -548,3 +548,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [16Jan2025 17:59:20.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to -318.500000, 67.500000, -666.500000]
 [16Jan2025 17:59:25.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 lost connection: Disconnected
 [16Jan2025 17:59:25.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 left the game
+[16Jan2025 18:01:12.783] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xentros10000[/100.114.194.50:52964] logged in with entity id 10943 at (-321.1367184177045, 75.06430716174535, -670.9755248854078)
+[16Jan2025 18:01:12.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 joined the game
+[16Jan2025 18:01:12.825] [Server thread/INFO] [Jade/]: Syncing config to xentros10000 (f735af96-f7b9-3ef9-b573-41b009273240)
+[16Jan2025 18:01:24.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was energized by Lightning Dragon
+[16Jan2025 18:01:24.495] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[16Jan2025 18:04:17.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was energized by Lightning Dragon
+[16Jan2025 18:04:17.325] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[16Jan2025 18:06:55.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D was struck with lightning by Lightning Dragon
+[16Jan2025 18:06:55.427] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
+[16Jan2025 18:14:22.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to JUAN_D]
+[16Jan2025 18:15:48.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to -318.500000, 67.500000, -666.500000]
