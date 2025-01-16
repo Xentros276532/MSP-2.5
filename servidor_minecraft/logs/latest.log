@@ -559,3 +559,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [16Jan2025 18:06:55.427] [Server thread/INFO] [tombstone/]: The player JUAN_D has successfully been saved
 [16Jan2025 18:14:22.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to JUAN_D]
 [16Jan2025 18:15:48.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to -318.500000, 67.500000, -666.500000]
+[16Jan2025 18:23:15.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Summoned new Siren]

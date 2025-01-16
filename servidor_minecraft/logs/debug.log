@@ -8929,3 +8929,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [16Jan2025 18:15:48.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to -318.500000, 67.500000, -666.500000]
 [16Jan2025 18:15:52.512] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Jan2025 18:15:52.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jan2025 18:20:52.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jan2025 18:20:52.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jan2025 18:23:15.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Summoned new Siren]
+[16Jan2025 18:25:52.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jan2025 18:25:52.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
