@@ -8296,9 +8296,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+  "iceandfire:iceandfire/lectern": {
     "criteria": {
-      "has_item": "2025-01-04 00:02:52 +0000"
+      "bestiary": "2025-01-03 20:25:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-01-03 20:25:44 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2025-01-03 20:41:53 +0000"
     },
     "done": true
   },
@@ -8308,9 +8320,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_silver_boots": {
+  "minecraft:adventure/sniper_duel": {
     "criteria": {
-      "has_item": "2025-01-03 23:14:55 +0000"
+      "killed_skeleton": "2025-01-03 21:02:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-01-03 21:13:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-01-03 21:26:07 +0000"
     },
     "done": true
   },
@@ -8320,9 +8344,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_silver_chestplate": {
+  "mowziesmobs:suns_blessing": {
     "criteria": {
-      "has_item": "2025-01-03 23:14:55 +0000"
+      "get_suns_blessing": "2025-01-03 21:38:58 +0000"
+    },
+    "done": true
+  },
+  "ancient_golems:prevent_destruction": {
+    "criteria": {
+      "prevent_destruction_0": "2025-01-03 21:39:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-01-03 21:43:35 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_glob_nether": {
+    "criteria": {
+      "gobber2_glob_nether": "2025-01-03 21:44:37 +0000"
     },
     "done": true
   },
@@ -8332,21 +8374,87 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-01-03 21:54:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-01-03 21:54:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-01-03 21:54:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-01-03 21:54:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-01-03 21:55:52 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ingot_nether": {
+    "criteria": {
+      "gobber2_ingot_nether": "2025-01-03 22:34:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-01-03 22:36:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/magic_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-01-03 22:41:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_hydra": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-03 22:42:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2025-01-03 22:42:55 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-01-03 22:49:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-01-03 22:50:26 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/banana_slug": {
+  "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
-      "killed": "2025-01-03 23:16:12 +0000"
+      "has_snowball": "2025-01-03 22:50:26 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+  "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
-      "has_item": "2025-01-03 23:54:25 +0000"
+      "killed_fire_dragon": "2025-01-03 22:52:58 +0000"
     },
     "done": true
   },
@@ -8368,75 +8476,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_hydra": {
-    "criteria": {
-      "killed_fire_dragon": "2025-01-03 22:42:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_sapphire_boots": {
-    "criteria": {
-      "has_item": "2025-01-03 23:31:19 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/lectern": {
-    "criteria": {
-      "bestiary": "2025-01-03 20:25:24 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_sapphire_helmet": {
-    "criteria": {
-      "has_item": "2025-01-03 23:31:19 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_silver_leggings": {
-    "criteria": {
-      "has_item": "2025-01-03 23:14:55 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_flute": {
-    "criteria": {
-      "bestiary": "2025-01-03 23:59:48 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/ghost_sword": {
-    "criteria": {
-      "has_item": "2025-01-04 00:40:28 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
-    "criteria": {
-      "has_item": "2025-01-03 23:31:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/distract_piglin": {
-    "criteria": {
-      "distract_piglin": "2025-01-03 21:13:02 +0000"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_ingot_nether": {
-    "criteria": {
-      "gobber2_ingot_nether": "2025-01-03 22:34:34 +0000"
-    },
-    "done": true
-  },
   "occultism:recipes/crushing/crushing/silver_dust_from_ingot": {
     "criteria": {
       "has_silver_ingot": "2025-01-03 22:53:28 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:suns_blessing": {
-    "criteria": {
-      "get_suns_blessing": "2025-01-03 21:38:58 +0000"
     },
     "done": true
   },
@@ -8446,33 +8488,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/bestiary": {
-    "criteria": {
-      "bestiary": "2025-01-03 20:25:44 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/magic_siphoner": {
-    "criteria": {
-      "coded_trigger": "2025-01-03 22:41:19 +0000"
-    },
-    "done": true
-  },
   "occultism:recipes/misc/crafting/silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2025-01-03 22:53:28 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/frost_troll_leather_boots": {
-    "criteria": {
-      "has_item": "2025-01-04 00:02:52 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_red_leggings": {
-    "criteria": {
-      "has_item": "2025-01-03 21:54:53 +0000"
     },
     "done": true
   },
@@ -8482,33 +8500,9 @@
     },
     "done": true
   },
-  "occultism:occultism/familiar/mummy_dodge": {
-    "criteria": {
-      "mummy_dodge": "2025-01-03 23:53:43 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_egg": {
-    "criteria": {
-      "egg": "2025-01-03 21:55:52 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
-    "criteria": {
-      "has_dragonscales_sapphire": "2025-01-03 23:31:19 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2025-01-03 22:53:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/levitate": {
-    "criteria": {
-      "levitated": "2025-01-03 22:42:55 +0000"
     },
     "done": true
   },
@@ -8518,141 +8512,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_sapphire_leggings": {
-    "criteria": {
-      "has_item": "2025-01-03 23:31:19 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_silver_helmet": {
-    "criteria": {
-      "has_item": "2025-01-03 23:14:55 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/sunbird_blessing": {
-    "criteria": {
-      "all_effects": "2025-01-03 21:26:07 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonbone_tool": {
-    "criteria": {
-      "tool": "2025-01-03 21:43:35 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
       "has_silver_ingot": "2025-01-03 22:53:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_breath": {
-    "criteria": {
-      "dragon_breath": "2025-01-04 00:02:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/food/ambrosia": {
-    "criteria": {
-      "has_item": "2025-01-03 22:36:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2025-01-04 00:40:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_ice": {
-    "criteria": {
-      "has_packed_ice": "2025-01-03 23:59:40 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/tigers_blessing": {
-    "criteria": {
-      "all_effects": "2025-01-03 20:41:53 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/ink_legendary": {
-    "criteria": {
-      "requirement": "2025-01-03 23:27:13 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_frostmaw": {
-    "criteria": {
-      "frostmaw": "2025-01-03 22:49:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_red_helmet": {
-    "criteria": {
-      "has_item": "2025-01-03 21:54:53 +0000"
-    },
-    "done": true
-  },
-  "ancient_golems:prevent_destruction": {
-    "criteria": {
-      "prevent_destruction_0": "2025-01-03 21:39:36 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_troll": {
-    "criteria": {
-      "killed_fire_dragon": "2025-01-03 23:07:35 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
-    "criteria": {
-      "has_dragonscales_red": "2025-01-03 21:54:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2025-01-03 23:54:25 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_red_boots": {
-    "criteria": {
-      "has_item": "2025-01-03 21:54:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sniper_duel": {
-    "criteria": {
-      "killed_skeleton": "2025-01-03 21:02:40 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dread_stone": {
-    "criteria": {
-      "has_item": "2025-01-03 23:48:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2025-01-03 23:54:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_block": "2025-01-04 01:29:10 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
-    "criteria": {
-      "has_dragonscales_silver": "2025-01-03 23:14:55 +0000"
     },
     "done": true
   },
@@ -8662,15 +8524,87 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_ghost": {
+  "iceandfire:iceandfire/kill_troll": {
     "criteria": {
-      "killed_fire_dragon": "2025-01-03 22:52:58 +0000"
+      "killed_fire_dragon": "2025-01-03 23:07:35 +0000"
     },
     "done": true
   },
-  "gobber2:gobber2_glob_nether": {
+  "iceandfire:recipes/combat/armor_silver_boots": {
     "criteria": {
-      "gobber2_glob_nether": "2025-01-03 21:44:37 +0000"
+      "has_item": "2025-01-03 23:14:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-03 23:14:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-01-03 23:14:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-01-03 23:14:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2025-01-03 23:14:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed": "2025-01-03 23:16:12 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-01-03 23:27:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2025-01-03 23:31:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2025-01-03 23:31:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-03 23:31:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2025-01-03 23:31:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2025-01-03 23:31:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-01-03 23:48:56 +0000"
     },
     "done": true
   },
@@ -8680,15 +8614,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "occultism:occultism/familiar/mummy_dodge": {
     "criteria": {
-      "has_snowball": "2025-01-03 22:50:26 +0000"
+      "mummy_dodge": "2025-01-03 23:53:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-01-03 23:54:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-01-03 23:54:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-01-03 23:54:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-01-03 23:59:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-01-03 23:59:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-04 00:02:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-01-04 00:02:52 +0000"
     },
     "done": true
   },
   "iceandfire:recipes/combat/frost_troll_leather_leggings": {
     "criteria": {
       "has_item": "2025-01-04 00:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-01-04 00:02:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/ghost_sword": {
+    "criteria": {
+      "has_item": "2025-01-04 00:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-04 00:40:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-01-04 01:29:10 +0000"
     },
     "done": true
   },
