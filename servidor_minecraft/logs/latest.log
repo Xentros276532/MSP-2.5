@@ -452,3 +452,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [16Jan2025 23:31:13.208] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [16Jan2025 23:35:08.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to JUAN_D]
 [16Jan2025 23:35:19.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 moved too quickly! 0.9230632144558513,-2.0,-11.641319100753435
+[16Jan2025 23:43:02.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved too quickly! 0.17903300767233077,-1.4550833816937683,13.057796348536044
+[16Jan2025 23:43:32.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved too quickly! 1.0857014558095557,-6.473700384751481,22.4801889649475
+[16Jan2025 23:43:32.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved too quickly! 1.0203371889359687,-6.1120585543076515,22.580188964947524
+[16Jan2025 23:47:15.804] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sali'/14395, l='ServerLevel[world]', x=-291.30, y=70.00, z=-699.30] died, message: 'Sali was slain by Husk'
+[16Jan2025 23:47:15.807] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sali'/14395, l='ServerLevel[world]', x=-291.30, y=70.00, z=-699.30] died: Sali was slain by Husk
