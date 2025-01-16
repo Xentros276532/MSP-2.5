@@ -435,3 +435,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [16Jan2025 19:01:27.293] [Server thread/INFO] [Jade/]: Syncing config to JUAN_D (981de7bf-aff5-3ebe-9eb2-5b5f7c8f79c4)
 [16Jan2025 19:01:31.163] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EnderMan['Enderman'/2771, l='ServerLevel[world]', x=-154.99, y=38.00, z=-667.46]
 [16Jan2025 19:01:53.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Gave 1 [Environmental Accumulation Core] to xentros10000]
+[16Jan2025 19:17:06.593] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 lost connection: Disconnected
+[16Jan2025 19:17:06.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 left the game
+[16Jan2025 19:17:45.482] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D lost connection: Disconnected
+[16Jan2025 19:17:45.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D left the game
+[16Jan2025 19:17:55.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16Jan2025 19:17:55.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Jan2025 19:17:55.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Jan2025 19:17:55.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Jan2025 19:17:55.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Jan2025 19:17:55.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Jan2025 19:17:55.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Jan2025 19:17:55.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/tht:dimension
+[16Jan2025 19:17:55.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Jan2025 19:17:55.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Jan2025 19:17:55.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Jan2025 19:17:55.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dimension): All chunks are saved
+[16Jan2025 19:17:55.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
