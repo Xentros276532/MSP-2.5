@@ -4619,3 +4619,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [17Jan2025 23:26:57.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Summoned new Rabbit]
 [17Jan2025 23:27:35.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of JUAN_D) moved too quickly! -1.6794775596773093,0.0,10.628799758793548
 [17Jan2025 23:28:00.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved wrongly!
+[17Jan2025 23:40:34.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of JUAN_D) moved wrongly! 0.3276384562937501
+[17Jan2025 23:40:40.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of JUAN_D) moved wrongly! 0.8019895239772536
+[17Jan2025 23:40:40.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of JUAN_D) moved wrongly! 0.8019895239772536
+[17Jan2025 23:40:40.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of JUAN_D) moved wrongly! 0.8019895239772536
+[17Jan2025 23:41:43.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of JUAN_D) moved wrongly! 0.5937734301429433
+[17Jan2025 23:41:43.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of JUAN_D) moved wrongly! 0.7041055402951325
+[17Jan2025 23:41:52.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Gave 14 [Rabbit's Foot] to xentros10000]
+[17Jan2025 23:42:01.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Buck Beak]
