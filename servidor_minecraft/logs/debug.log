@@ -12690,3 +12690,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [17Jan2025 22:22:57.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of JUAN_D) moved too quickly! -11.479932185001957,-0.039161311843486146,-3.669722707129381
 [17Jan2025 22:22:57.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of JUAN_D) moved too quickly! -10.696661871666038,-0.048758387771627554,-3.415950666179924
 [17Jan2025 22:22:57.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of JUAN_D) moved too quickly! -9.92959939279126,-0.05780979058070557,-3.166497194851786
+[17Jan2025 22:24:39.356] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [dbdf8eb2-5df5-4822-b850-e5d0ac868a17]
+[17Jan2025 22:26:05.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 22:26:05.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 22:30:27.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved too quickly! -4.729091916581638,0.0,8.841381922909363
+[17Jan2025 22:31:05.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 22:31:05.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 22:32:57.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved too quickly! -0.3732688950191232,2.6057938109804013,-9.92573690781694
