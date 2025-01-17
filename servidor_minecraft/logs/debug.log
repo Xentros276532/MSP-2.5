@@ -12697,3 +12697,23 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [17Jan2025 22:31:05.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Jan2025 22:31:05.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Jan2025 22:32:57.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved too quickly! -0.3732688950191232,2.6057938109804013,-9.92573690781694
+[17Jan2025 22:36:05.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 22:36:05.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 22:41:05.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 22:41:05.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 22:45:50.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 moved too quickly! 23.11958450170669,2.0,16.057458908434455
+[17Jan2025 22:46:05.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 22:46:05.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 22:46:58.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 moved too quickly! 12.37997052130373,5.6724892936707505,-1.4332412633067406
+[17Jan2025 22:48:14.721] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 97 -771 -771 VisualFallingBlockEntity['Falling Stone'/89627, l='ServerLevel[world]', x=97.50, y=76.00, z=-770.50]
+[17Jan2025 22:48:29.118] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mediha'/88673, l='ServerLevel[world]', x=100.53, y=78.00, z=-637.50] died, message: 'Mediha was shot by Pillager'
+[17Jan2025 22:48:29.121] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Mediha'/88673, l='ServerLevel[world]', x=100.53, y=78.00, z=-637.50] died: Mediha was shot by Pillager
+[17Jan2025 22:49:07.370] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 103 -787 -787 VisualFallingBlockEntity['Falling Stone'/89883, l='ServerLevel[world]', x=103.50, y=78.00, z=-786.50]
+[17Jan2025 22:49:18.119] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 104 -790 -790 VisualFallingBlockEntity['Falling Stone'/89932, l='ServerLevel[world]', x=104.50, y=76.00, z=-789.50]
+[17Jan2025 22:49:20.921] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 105 -789 -789 VisualFallingBlockEntity['Falling Stone'/89947, l='ServerLevel[world]', x=105.50, y=78.00, z=-788.50]
+[17Jan2025 22:50:32.519] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 111 -776 -776 VisualFallingBlockEntity['Falling Stone'/90326, l='ServerLevel[world]', x=111.50, y=78.00, z=-775.50]
+[17Jan2025 22:50:44.672] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 99 -785 -785 VisualFallingBlockEntity['Falling Stone'/90420, l='ServerLevel[world]', x=99.50, y=77.00, z=-784.50]
+[17Jan2025 22:51:05.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 22:51:05.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 22:51:43.974] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 108 -770 -770 VisualFallingBlockEntity['Falling Stone'/90898, l='ServerLevel[world]', x=108.50, y=78.00, z=-769.50]
+[17Jan2025 22:51:50.472] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 113 -772 -772 VisualFallingBlockEntity['Falling Stone'/90931, l='ServerLevel[world]', x=113.50, y=77.00, z=-771.50]
