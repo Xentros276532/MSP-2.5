@@ -301,11 +301,13 @@
       "minecraft:old_growth_pine_taiga": "2024-12-18 22:45:32 +0000",
       "minecraft:taiga": "2024-12-28 18:05:29 +0000",
       "minecraft:deep_ocean": "2024-12-28 17:56:01 +0000",
+      "minecraft:eroded_badlands": "2025-01-17 18:36:58 +0000",
       "minecraft:frozen_river": "2024-12-28 20:53:54 +0000",
       "minecraft:sunflower_plains": "2025-01-16 18:41:32 +0000",
       "minecraft:birch_forest": "2024-12-18 17:29:14 +0000",
       "minecraft:windswept_hills": "2025-01-16 18:46:01 +0000",
       "minecraft:bamboo_jungle": "2024-12-17 20:40:01 +0000",
+      "minecraft:badlands": "2025-01-17 18:36:15 +0000",
       "minecraft:savanna_plateau": "2024-12-17 20:14:35 +0000",
       "minecraft:beach": "2024-12-17 20:35:11 +0000",
       "minecraft:stony_peaks": "2024-12-17 20:13:50 +0000",
@@ -322,6 +324,7 @@
       "minecraft:lush_caves": "2024-12-17 22:17:35 +0000",
       "minecraft:frozen_ocean": "2025-01-03 22:56:43 +0000",
       "minecraft:desert": "2024-12-17 20:43:58 +0000",
+      "minecraft:windswept_forest": "2025-01-17 18:24:03 +0000",
       "minecraft:ocean": "2024-12-18 17:28:55 +0000",
       "minecraft:jungle": "2024-12-18 23:02:03 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-16 20:19:25 +0000",
@@ -8844,15 +8847,105 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-01-17 18:26:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2025-01-17 18:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-01-17 18:26:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2025-01-17 18:26:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2025-01-17 18:26:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed": "2025-01-17 18:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-01-17 18:37:37 +0000"
+    },
+    "done": true
+  },
   "ancient_golems:the_end_of_the_origin": {
     "criteria": {
       "the_end_of_the_origin_0": "2025-01-17 18:07:22 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-01-17 18:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-17 18:37:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-17 18:26:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-01-17 18:39:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-01-17 18:39:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-01-17 18:39:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_lily_of_the_valley": "2025-01-17 17:46:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-01-17 18:22:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2025-01-17 18:26:47 +0000"
     },
     "done": true
   },
