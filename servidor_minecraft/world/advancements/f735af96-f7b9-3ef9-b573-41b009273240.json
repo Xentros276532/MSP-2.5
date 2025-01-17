@@ -8847,7 +8847,37 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-01-17 17:46:25 +0000"
+    },
+    "done": true
+  },
+  "ancient_golems:the_end_of_the_origin": {
+    "criteria": {
+      "the_end_of_the_origin_0": "2025-01-17 18:07:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-01-17 18:22:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-01-17 18:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-01-17 18:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-01-17 18:26:01 +0000"
     },
@@ -8859,12 +8889,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2025-01-17 18:26:01 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
     "criteria": {
       "has_sea_serpent_scales_deepblue": "2025-01-17 18:26:47 +0000"
@@ -8872,6 +8896,18 @@
     "done": true
   },
   "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2025-01-17 18:26:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-17 18:26:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
     "criteria": {
       "has_item": "2025-01-17 18:26:47 +0000"
     },
@@ -8889,27 +8925,9 @@
     },
     "done": true
   },
-  "ancient_golems:the_end_of_the_origin": {
-    "criteria": {
-      "the_end_of_the_origin_0": "2025-01-17 18:07:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-01-17 18:26:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
       "has_sand": "2025-01-17 18:37:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
-    "criteria": {
-      "has_item": "2025-01-17 18:26:47 +0000"
     },
     "done": true
   },
@@ -8931,21 +8949,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+  "iceandfire:recipes/combat/deathworm_gauntlet_red": {
     "criteria": {
-      "has_lily_of_the_valley": "2025-01-17 17:46:25 +0000"
+      "has_item": "2025-01-17 21:36:53 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/grizzly_bear": {
+  "iceandfire:recipes/misc/ash_to_charcoal": {
     "criteria": {
-      "killed_by": "2025-01-17 18:22:58 +0000"
+      "has_item": "2025-01-17 21:41:52 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_deepblue_boots": {
+  "iceandfire:recipes/combat/deathworm_gauntlet_white": {
     "criteria": {
-      "has_item": "2025-01-17 18:26:47 +0000"
+      "has_item": "2025-01-17 21:36:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_gauntlet_yellow": {
+    "criteria": {
+      "has_item": "2025-01-17 21:36:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-01-17 21:42:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-01-17 21:42:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-01-17 21:42:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-17 21:42:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-01-17 21:42:04 +0000"
     },
     "done": true
   },
