@@ -4596,3 +4596,26 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [17Jan2025 22:46:58.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 moved too quickly! 12.37997052130373,5.6724892936707505,-1.4332412633067406
 [17Jan2025 22:48:29.118] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mediha'/88673, l='ServerLevel[world]', x=100.53, y=78.00, z=-637.50] died, message: 'Mediha was shot by Pillager'
 [17Jan2025 22:48:29.121] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Mediha'/88673, l='ServerLevel[world]', x=100.53, y=78.00, z=-637.50] died: Mediha was shot by Pillager
+[17Jan2025 22:55:22.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported JUAN_D to xentros10000]
+[17Jan2025 22:57:03.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved too quickly! -6.9170558279825585,3.689892130098684,-7.02571340885936
+[17Jan2025 22:58:33.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved too quickly! 7.417720135703371,-7.26947512064244,0.7518257704469988
+[17Jan2025 23:02:39.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved too quickly! -4.0,-1.2578585658599764,-9.098765679696953
+[17Jan2025 23:07:30.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Its Like Printing my Own Money!]
+[17Jan2025 23:09:18.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [The Only Good Bug...]
+[17Jan2025 23:12:20.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved too quickly! 10.113246682076817,1.203264399331303,-0.012223587843664063
+[17Jan2025 23:13:05.216] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D lost connection: Timed out
+[17Jan2025 23:13:05.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D left the game
+[17Jan2025 23:13:33.236] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUAN_D[/100.101.75.56:61525] logged in with entity id 98675 at (-21.69999998807907, 67.0, -911.3930854450466)
+[17Jan2025 23:13:33.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D joined the game
+[17Jan2025 23:13:33.323] [Server thread/INFO] [Jade/]: Syncing config to JUAN_D (981de7bf-aff5-3ebe-9eb2-5b5f7c8f79c4)
+[17Jan2025 23:14:55.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [The Only Good Bug...]
+[17Jan2025 23:15:30.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Summoned new Myrmex Queen]
+[17Jan2025 23:16:42.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAN_D has made the advancement [Its Like Printing my Own Money!]
+[17Jan2025 23:17:48.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Summoned new Myrmex Royal]
+[17Jan2025 23:24:22.571] [Worker-Main-16/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-12, -99], pos: MutableBlockPos{x=-192, y=-42, z=-1583}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[17Jan2025 23:24:34.317] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Imrane'/106339, l='ServerLevel[world]', x=-299.19, y=67.00, z=-716.62] died, message: 'Imrane suffocated in a wall'
+[17Jan2025 23:24:34.319] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Imrane'/106339, l='ServerLevel[world]', x=-299.19, y=67.00, z=-716.62] died: Imrane suffocated in a wall
+[17Jan2025 23:24:49.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved too quickly! -3.3041840156684827,-10.77588977731871,-1.4723123802818918
+[17Jan2025 23:26:57.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Summoned new Rabbit]
+[17Jan2025 23:27:35.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of JUAN_D) moved too quickly! -1.6794775596773093,0.0,10.628799758793548
+[17Jan2025 23:28:00.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved wrongly!
