@@ -8967,6 +8967,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/tame_amphithere": {
+    "criteria": {
+      "tame_rat": "2025-01-17 21:55:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_gauntlet_yellow": {
     "criteria": {
       "has_item": "2025-01-17 21:36:53 +0000"
