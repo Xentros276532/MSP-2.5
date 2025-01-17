@@ -3817,3 +3817,138 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [17Jan2025 22:03:28.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.5739387597867448
 [17Jan2025 22:03:32.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.5263502631516833
 [17Jan2025 22:03:32.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.5263502631516833
+[17Jan2025 22:03:37.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved too quickly! 6.516886383341102,0.0,8.541021032749427
+[17Jan2025 22:03:37.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved too quickly! 7.028712042549955,0.0,9.193037987044136
+[17Jan2025 22:03:37.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved too quickly! 7.541275754714434,0.0,9.844705454473342
+[17Jan2025 22:03:37.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved too quickly! 8.054490429585826,0.0,10.496064674487116
+[17Jan2025 22:03:37.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved too quickly! 8.568279253564697,0.0,11.147152020280487
+[17Jan2025 22:03:37.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved too quickly! 9.082574477056369,0.0,11.797999573011452
+[17Jan2025 22:03:37.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved too quickly! 9.59731634491834,0.0,12.4486356282614
+[17Jan2025 22:03:37.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved too quickly! -9.871171700622654,-2.338731787817821,-1.282449403596047
+[17Jan2025 22:03:37.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved too quickly! 10.112452153114873,0.0,13.099085142733088
+[17Jan2025 22:03:37.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved too quickly! 10.627935416686455,0.0,13.74937012823841
+[17Jan2025 22:03:37.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved too quickly! 11.143725135898876,0.0,14.399509999195288
+[17Jan2025 22:03:39.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.8303508023065793
+[17Jan2025 22:03:40.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.8303973167309804
+[17Jan2025 22:03:45.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.8135660812017012
+[17Jan2025 22:03:45.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.8263154670731554
+[17Jan2025 22:03:45.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.8263154670731554
+[17Jan2025 22:03:47.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.4065601931281458
+[17Jan2025 22:03:48.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.3279132035906777
+[17Jan2025 22:03:49.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[17Jan2025 22:03:50.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.37977554794127416
+[17Jan2025 22:03:52.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.6949965865454683
+[17Jan2025 22:03:54.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.786205257761946
+[17Jan2025 22:03:54.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.786205257761946
+[17Jan2025 22:03:54.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.786205257761946
+[17Jan2025 22:03:54.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.7947290199225304
+[17Jan2025 22:03:54.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.7947290199225304
+[17Jan2025 22:03:54.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.7990783885609636
+[17Jan2025 22:03:56.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.32791319210259096
+[17Jan2025 22:03:56.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.32791319210259096
+[17Jan2025 22:03:57.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.43235414479011536
+[17Jan2025 22:03:57.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.48046350392009174
+[17Jan2025 22:03:57.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.48046350392009174
+[17Jan2025 22:04:07.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3774ms or 75 ticks behind
+[17Jan2025 22:04:13.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved too quickly! -9.32540906133272,4.160228308549435,-0.4723171795073995
+[17Jan2025 22:04:19.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved too quickly! -9.262394866121213,4.690259212927373,1.4559377752402725
+[17Jan2025 22:04:31.573] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:31.637] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:31.706] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:31.809] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:31.909] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:32.012] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:32.117] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:32.207] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:32.307] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:32.412] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:32.540] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:32.628] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:32.713] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:32.809] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:32.916] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:33.012] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:33.121] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:33.205] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:33.321] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:33.408] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:33.508] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:33.688] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:33.771] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:33.852] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:33.950] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:34.051] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:34.137] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:34.220] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:35.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.4856442758405715
+[17Jan2025 22:04:35.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.4856442758405715
+[17Jan2025 22:04:35.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.6464199123600318
+[17Jan2025 22:04:35.747] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:35.812] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:35.950] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:36.042] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:36.149] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:36.248] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:36.332] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:36.408] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:36.511] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:36.624] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:36.730] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:36.825] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:36.906] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:37.029] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:37.108] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:37.243] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:37.310] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:37.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:37.512] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:37.634] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:37.713] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:37.821] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:37.915] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:38.042] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:38.103] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:38.213] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:38.306] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:38.408] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:38.515] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:38.611] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:38.705] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:38.806] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:38.910] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:39.062] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:56.347] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:56.457] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:56.548] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:56.685] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:56.779] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:56.861] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:56.952] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:57.044] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:57.123] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:57.239] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:57.337] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:57.471] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:57.562] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:57.654] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:57.763] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:57.897] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:57.996] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:58.091] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:58.200] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:04:58.270] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 22:05:49.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [A Lighthouse in Your Eyes]
+[17Jan2025 22:09:17.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.41002294671574596
+[17Jan2025 22:09:18.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.4952798257764106
+[17Jan2025 22:09:25.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[17Jan2025 22:09:26.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 moved wrongly!
+[17Jan2025 22:09:55.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported JUAN_D to xentros10000]
+[17Jan2025 22:10:02.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.403055854092271
+[17Jan2025 22:10:03.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.5837613919514634
+[17Jan2025 22:10:07.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.2898293427599918
+[17Jan2025 22:10:08.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.6669566667605777
+[17Jan2025 22:10:21.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 moved wrongly!
+[17Jan2025 22:11:29.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.39402290320764183
+[17Jan2025 22:11:31.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.797699390365839
+[17Jan2025 22:12:08.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAN_D moved too quickly! -10.099980985057584,-0.9215999984741217,1.965315340315783
+[17Jan2025 22:13:10.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of xentros10000) moved wrongly! 0.38432939717244274
