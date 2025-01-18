@@ -336,6 +336,7 @@
       "minecraft:frozen_river": "2024-12-28 18:32:17 +0000",
       "minecraft:sunflower_plains": "2024-12-28 17:52:03 +0000",
       "minecraft:birch_forest": "2024-12-28 17:49:43 +0000",
+      "minecraft:windswept_hills": "2025-01-18 00:15:48 +0000",
       "minecraft:wooded_badlands": "2024-12-17 20:24:51 +0000",
       "minecraft:bamboo_jungle": "2024-12-18 23:51:00 +0000",
       "minecraft:badlands": "2024-12-28 23:21:02 +0000",
@@ -8813,6 +8814,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-01-18 00:20:04 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/myrmex_desert_shovel": {
     "criteria": {
       "has_item": "2025-01-17 23:14:55 +0000"
@@ -8837,15 +8844,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2025-01-18 00:20:04 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_myrmex": {
     "criteria": {
       "chitin": "2025-01-17 23:14:55 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2025-01-18 00:20:04 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/myrmex_desert_helmet": {
     "criteria": {
       "has_item": "2025-01-17 23:14:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-18 00:16:16 +0000"
     },
     "done": true
   },
@@ -8858,6 +8883,18 @@
   "iceandfire:recipes/tools/myrmex_desert_pickaxe": {
     "criteria": {
       "has_item": "2025-01-17 23:14:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-18 00:20:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-01-18 00:20:04 +0000"
     },
     "done": true
   },
