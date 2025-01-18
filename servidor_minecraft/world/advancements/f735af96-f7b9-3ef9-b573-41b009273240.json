@@ -8957,75 +8957,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/ash_to_charcoal": {
-    "criteria": {
-      "has_item": "2025-01-17 21:41:52 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/deathworm_gauntlet_white": {
     "criteria": {
       "has_item": "2025-01-17 21:36:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_desert_sword": {
-    "criteria": {
-      "has_item": "2025-01-17 23:09:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit": {
-    "criteria": {
-      "has_rabbit": "2025-01-17 22:56:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
-    "criteria": {
-      "has_rabbit": "2025-01-17 22:56:16 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_desert_shovel": {
-    "criteria": {
-      "has_item": "2025-01-17 23:09:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/myrmex_resin": {
-    "criteria": {
-      "resin": "2025-01-17 23:07:30 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_desert_axe": {
-    "criteria": {
-      "has_item": "2025-01-17 23:09:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_desert_hoe": {
-    "criteria": {
-      "has_item": "2025-01-17 23:09:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/tame_amphithere": {
-    "criteria": {
-      "tame_rat": "2025-01-17 21:55:43 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/tame_hippogryph": {
-    "criteria": {
-      "tame_rat": "2025-01-17 23:42:01 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/deepsight": {
-    "criteria": {
-      "all_effects": "2025-01-17 22:05:49 +0000"
     },
     "done": true
   },
@@ -9035,21 +8969,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_myrmex": {
+  "iceandfire:recipes/misc/ash_to_charcoal": {
     "criteria": {
-      "chitin": "2025-01-17 23:09:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_desert_helmet": {
-    "criteria": {
-      "has_item": "2025-01-17 23:09:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
-    "criteria": {
-      "has_rabbit": "2025-01-17 22:56:16 +0000"
+      "has_item": "2025-01-17 21:41:52 +0000"
     },
     "done": true
   },
@@ -9071,9 +8993,93 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-17 21:42:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-01-17 21:42:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_amphithere": {
+    "criteria": {
+      "tame_rat": "2025-01-17 21:55:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deepsight": {
+    "criteria": {
+      "all_effects": "2025-01-17 22:05:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-01-17 22:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-01-17 22:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-01-17 22:56:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/myrmex_resin": {
+    "criteria": {
+      "resin": "2025-01-17 23:07:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/myrmex_resin_desert": {
     "criteria": {
       "has_item": "2025-01-17 23:07:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_sword": {
+    "criteria": {
+      "has_item": "2025-01-17 23:09:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_shovel": {
+    "criteria": {
+      "has_item": "2025-01-17 23:09:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_axe": {
+    "criteria": {
+      "has_item": "2025-01-17 23:09:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_hoe": {
+    "criteria": {
+      "has_item": "2025-01-17 23:09:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2025-01-17 23:09:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_helmet": {
+    "criteria": {
+      "has_item": "2025-01-17 23:09:18 +0000"
     },
     "done": true
   },
@@ -9101,15 +9107,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+  "iceandfire:iceandfire/tame_hippogryph": {
     "criteria": {
-      "has_item": "2025-01-17 21:42:04 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_bronze_helmet": {
-    "criteria": {
-      "has_item": "2025-01-17 21:42:04 +0000"
+      "tame_rat": "2025-01-17 23:42:01 +0000"
     },
     "done": true
   },
